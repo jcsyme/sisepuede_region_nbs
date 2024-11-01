@@ -8,7 +8,13 @@ identifiers:
   transformation_code: "TX:AGRC:INC_CONSERVATION_AGRICULTURE"
   transformation_name: "Default Value - AGRC: Expand conservation agriculture"
 parameters:
-  dict_categories_to_magnitude: null
+  dict_categories_to_magnitude: 
+    cereals: 0.95
+    fibers: 0.95
+    other_annual: 0.95
+    pulses: 0.95
+    tubers: 0.95
+    vegetables_and_vines: 0.95
   magnitude_burned: 0.0
   magnitude_removed: 0.5
   vec_implementation_ramp: null

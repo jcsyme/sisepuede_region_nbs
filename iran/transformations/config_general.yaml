@@ -1,5 +1,5 @@
 baseline:
-  categories_entc_max_investment_ramp: null
+  categories_entc_max_investment_ramp: 
   categories_entc_pps_to_cap: null
   categories_entc_renewable: null
   dict_entc_renewable_target_msp_baseline: {}
