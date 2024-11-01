@@ -1,8 +1,8 @@
 citations: null
 description: "None"
 identifiers:
-  transformation_code: "TX:SCOE:DEC_DEMAND_HEAT_LOW"
-  transformation_name: "Reduced Value - SCOE: Reduce end-use demand for heat energy\
+  transformation_code: "TX:SCOE:DEC_DEMAND_HEAT_LOWEST"
+  transformation_name: "Lowest Value - SCOE: Reduce end-use demand for heat energy\
     \ by improving building shell"
 parameters:
   magnitude: 0.2
