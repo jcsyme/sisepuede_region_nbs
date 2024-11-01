@@ -1,0 +1,13 @@
+citations: null
+description: "None"
+identifiers:
+  transformation_code: "TX:WALI:INC_TREATMENT_URBAN_LOWEST"
+  transformation_name: "Lowest Value - WALI: Improved urban wastewater treatment"
+parameters:
+  dict_magnitude:
+    treated_advanced_aerobic: 0.2
+    treated_advanced_anaerobic: 0.2
+    treated_secondary_aerobic: 0.2
+    treated_secondary_anaerobic: 0.2
+  vec_implementation_ramp: null
+transformer: "TFR:WALI:INC_TREATMENT_URBAN"

@@ -1,8 +1,8 @@
 citations: null
 description: "None"
 identifiers:
-  transformation_code: "TX:WALI:INC_TREATMENT_RURAL_LOW"
-  transformation_name: "Reduced Value - WALI: Improved rural wastewater treatment"
+  transformation_code: "TX:WALI:INC_TREATMENT_RURAL_LOWER"
+  transformation_name: "Lower Value - WALI: Improved rural wastewater treatment"
 parameters:
   dict_magnitude:
     treated_septic: 0.9

@@ -1,0 +1,12 @@
+citations: null
+description: "None"
+identifiers:
+  transformation_code: "TX:WALI:INC_TREATMENT_INDUSTRIAL_LOWER"
+  transformation_name: "Lower Value - WALI: Improved industrial wastewater treatment"
+parameters:
+  dict_magnitude:
+    treated_advanced_anaerobic: 0.5
+    treated_secondary_aerobic: 0.2
+    treated_secondary_anaerobic: 0.2
+  vec_implementation_ramp: null
+transformer: "TFR:WALI:INC_TREATMENT_INDUSTRIAL"
