@@ -1,0 +1,63 @@
+inputs:
+  iea_electricity_generation_by_source:
+    citations:
+      bibtex:
+        iea_country_profiles:
+          description: "IEA Country profiles \\cite{CITATION} are used to set electricity energy mixes and scale transportation, SCOE, and industrial energy consumption and fuel mixes."
+    field_iea_index_renamed: iea_fuel
+    regex_csv: International Energy Agency - electricity generation sources in (.*\D).csv
+    regex_field_rename: electricity generation sources in (.*\D$) 
+    repo:
+      kwargs:
+        # kill error that shows up when no file is found--will skip
+        stop_on_error: False 
+      path: "IEA/electricity_generation_sources"
+    year:
+      year_min: 2010
+      year_max: 2100
+  iea_total_consumption_by_source_cps:
+    field_iea_index_renamed: iea_fuel
+    repo:
+      kwargs:
+        # kill error that shows up when no file is found--will skip
+        stop_on_error: False
+      path: "IEA/commercial_and_public_services_total_final_consumption_by_source"
+    year:
+      year_min: 2010
+      year_max: 2100
+  iea_total_consumption_by_source_ind:
+    field_iea_index_renamed: iea_fuel
+    repo:
+      kwargs:
+        # kill error that shows up when no file is found--will skip
+        stop_on_error: False 
+      path: "IEA/industry_total_final_consumption_by_source"
+    year:
+      year_min: 2010
+      year_max: 2100
+  iea_total_consumption_by_source_res:
+    field_iea_index_renamed: iea_fuel
+    repo:
+      kwargs:
+        # kill error that shows up when no file is found--will skip
+        stop_on_error: False 
+      path: "IEA/residential_total_final_consumption_by_source"
+    year:
+      year_min: 2010
+      year_max: 2100
+  iea_total_consumption_by_source_tra:
+    field_iea_index_renamed: iea_fuel
+    repo:
+      kwargs:
+        # kill error that shows up when no file is found--will skip
+        stop_on_error: False 
+      path: "IEA/transport_total_final_consumption_by_source"
+    year:
+      year_min: 2010
+      year_max: 2100
+
+# include some variable specific configuration: 
+# options include:
+#   - skip: 
+variables: 
+  
