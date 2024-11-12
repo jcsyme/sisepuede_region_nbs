@@ -1,0 +1,13 @@
+citations: null
+description: None
+identifiers:
+  transformation_code: TX:TRNS:SHIFT_FUEL_LIGHT_DUTY_STRATEGY_NDC
+  transformation_name: 'Scaled Default Max Parameters by 0.3 - TRNS: Electrify light
+    duty road transport'
+parameters:
+  categories:
+  - road_light
+  dict_fuel_allocation: null
+  magnitude: 0.21
+  vec_implementation_ramp: null
+transformer: TFR:TRNS:SHIFT_FUEL_LIGHT_DUTY

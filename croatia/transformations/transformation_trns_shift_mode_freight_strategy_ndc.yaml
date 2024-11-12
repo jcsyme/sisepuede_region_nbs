@@ -1,0 +1,13 @@
+citations: null
+description: None
+identifiers:
+  transformation_code: TX:TRNS:SHIFT_MODE_FREIGHT_STRATEGY_NDC
+  transformation_name: 'Scaled Default Max Parameters by 0.1 - TRNS: Mode shift freight'
+parameters:
+  categories_out:
+  - aviation
+  - road_heavy_freight
+  dict_categories_target: null
+  magnitude: 0.020000000000000004
+  vec_implementation_ramp: null
+transformer: TFR:TRNS:SHIFT_MODE_FREIGHT

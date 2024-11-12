@@ -1,0 +1,10 @@
+citations: null
+description: None
+identifiers:
+  transformation_code: TX:WASO:INC_ENERGY_FROM_INCINERATION_STRATEGY_ADDITIONAL_ACTIONS
+  transformation_name: 'Scaled Default Max Parameters by 0.85 - WASO: Incineration
+    for energy production'
+parameters:
+  magnitude: 0.7224999999999999
+  vec_implementation_ramp: null
+transformer: TFR:WASO:INC_ENERGY_FROM_INCINERATION

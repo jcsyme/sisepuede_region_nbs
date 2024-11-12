@@ -1,0 +1,10 @@
+citations: null
+description: Increase the fraction of biogas that is collected that is used for energy
+identifiers:
+  transformation_code: TX:WASO:INC_ENERGY_FROM_BIOGAS_STRATEGY_NDC
+  transformation_name: 'Scaled Default Max Parameters by 0.4 - WASO: Biogas for energy
+    production'
+parameters:
+  magnitude: 0.34
+  vec_implementation_ramp: null
+transformer: TFR:WASO:INC_ENERGY_FROM_BIOGAS

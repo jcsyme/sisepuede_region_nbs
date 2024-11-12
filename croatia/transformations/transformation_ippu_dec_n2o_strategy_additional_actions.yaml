@@ -1,0 +1,10 @@
+citations: null
+description: None
+identifiers:
+  transformation_code: TX:IPPU:DEC_N2O_STRATEGY_ADDITIONAL_ACTIONS
+  transformation_name: 'Scaled Default Max Parameters by 0.9 - IPPU: Reduce Nitrous
+    Oxide emissions'
+parameters:
+  magnitude: 0.09000000000000001
+  vec_implementation_ramp: null
+transformer: TFR:IPPU:DEC_N2O

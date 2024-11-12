@@ -1,0 +1,10 @@
+citations: null
+description: Includes a reduction in the demand for red meat and allows for changes
+  to different crop demands.
+identifiers:
+  transformation_code: TX:PFLO:INC_HEALTHIER_DIETS_STRATEGY_CURRENT_MEASURES
+  transformation_name: 'Scaled Default Max Parameters by 0.125 - PFLO: Change diets'
+parameters:
+  magnitude_red_meat: 0.5
+  vec_implementation_ramp: null
+transformer: TFR:PFLO:INC_HEALTHIER_DIETS

@@ -1,0 +1,9 @@
+citations: null
+description: "None"
+identifiers:
+  transformation_code: "TX:TRWW:INC_COMPLIANCE_SEPTIC"
+  transformation_name: "Default Value - TRWW: Increase septic compliance"
+parameters:
+  magnitude: 0.9
+  vec_implementation_ramp: null
+transformer: "TFR:TRWW:INC_COMPLIANCE_SEPTIC"

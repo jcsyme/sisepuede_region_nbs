@@ -1,0 +1,10 @@
+citations: null
+description: Increase fraction of biogas captured from landfills and anaerobic digesters
+identifiers:
+  transformation_code: TX:WASO:INC_CAPTURE_BIOGAS_STRATEGY_CURRENT_MEASURES
+  transformation_name: 'Scaled Default Max Parameters by 0.2 - WASO: Increase biogas
+    capture'
+parameters:
+  magnitude: 0.17
+  vec_implementation_ramp: null
+transformer: TFR:WASO:INC_CAPTURE_BIOGAS

@@ -1,0 +1,10 @@
+citations: null
+description: None
+identifiers:
+  transformation_code: TX:TRDE:DEC_DEMAND_STRATEGY_ADDITIONAL_ACTIONS
+  transformation_name: 'Scaled Default Max Parameters by 0.25 - TRDE: Reduce demand
+    for transport'
+parameters:
+  magnitude: 0.0625
+  vec_implementation_ramp: null
+transformer: TFR:TRDE:DEC_DEMAND

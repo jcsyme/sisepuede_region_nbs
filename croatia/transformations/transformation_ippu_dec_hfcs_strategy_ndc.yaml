@@ -1,0 +1,10 @@
+citations: null
+description: None
+identifiers:
+  transformation_code: TX:IPPU:DEC_HFCS_STRATEGY_NDC
+  transformation_name: 'Scaled Default Max Parameters by 0.8 - IPPU: Reduce use of
+    HFCs'
+parameters:
+  magnitude: 0.08000000000000002
+  vec_implementation_ramp: null
+transformer: TFR:IPPU:DEC_HFCS

@@ -1,9 +1,0 @@
-citations: null
-description: "Decrease lime applied to soils (15%)"
-identifiers:
-  transformation_code: "TX:SOIL:DEC_LIME_APPLIED_HIGHER"
-  transformation_name: "Higher Value - SOIL: Improve lime application"
-parameters:
-  magnitude: 0.15
-  vec_implementation_ramp: null
-transformer: "TFR:SOIL:DEC_LIME_APPLIED"

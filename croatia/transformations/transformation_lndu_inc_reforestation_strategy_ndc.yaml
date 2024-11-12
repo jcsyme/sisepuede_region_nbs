@@ -1,0 +1,12 @@
+citations: null
+description: 'Increases probability of input land use classes being converted to '
+identifiers:
+  transformation_code: TX:LNDU:INC_REFORESTATION_STRATEGY_NDC
+  transformation_name: 'Scaled Default Max Parameters by 0.1 - LNDU: Increase Reforestation'
+parameters:
+  cats_inflow_restriction:
+  - croplands
+  - other
+  magnitude: 0.020000000000000004
+  vec_implementation_ramp: null
+transformer: TFR:LNDU:INC_REFORESTATION

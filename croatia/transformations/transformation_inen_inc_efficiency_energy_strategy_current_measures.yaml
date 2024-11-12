@@ -1,0 +1,10 @@
+citations: null
+description: None
+identifiers:
+  transformation_code: TX:INEN:INC_EFFICIENCY_ENERGY_STRATEGY_CURRENT_MEASURES
+  transformation_name: 'Scaled Default Max Parameters by 0.075 - INEN: Maximize industrial
+    energy efficiency'
+parameters:
+  magnitude: 0.0225
+  vec_implementation_ramp: null
+transformer: TFR:INEN:INC_EFFICIENCY_ENERGY

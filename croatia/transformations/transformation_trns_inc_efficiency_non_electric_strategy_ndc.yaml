@@ -1,0 +1,10 @@
+citations: null
+description: None
+identifiers:
+  transformation_code: TX:TRNS:INC_EFFICIENCY_NON_ELECTRIC_STRATEGY_NDC
+  transformation_name: 'Scaled Default Max Parameters by 0.15 - TRNS: Increase non-electric
+    transportation energy efficiency'
+parameters:
+  magnitude: 0.0375
+  vec_implementation_ramp: null
+transformer: TFR:TRNS:INC_EFFICIENCY_NON_ELECTRIC

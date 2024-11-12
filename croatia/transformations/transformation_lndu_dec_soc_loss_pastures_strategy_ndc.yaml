@@ -1,0 +1,13 @@
+citations: null
+description: " | Decrease soil organic carbon loss in grasslands through sustainable\
+  \ grazing practices\r\n | \r\n | **Grasslands**: Increase :math:`F_{MG}` for ``grasslands``\
+  \ to 1.157 (see V4, Chapter 6, Table 6.2 [2019R] for grasslands management factors\
+  \ :math:`F_{MG}` under different management regimes--mean of *Improved Grassland*)"
+identifiers:
+  transformation_code: TX:LNDU:DEC_SOC_LOSS_PASTURES_STRATEGY_NDC
+  transformation_name: 'Scaled Default Max Parameters by 0.3 - LNDU: Expand sustainable
+    grazing practices'
+parameters:
+  magnitude: 0.285
+  vec_implementation_ramp: null
+transformer: TFR:LNDU:DEC_SOC_LOSS_PASTURES

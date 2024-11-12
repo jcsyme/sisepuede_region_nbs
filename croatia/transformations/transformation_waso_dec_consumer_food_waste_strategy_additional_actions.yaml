@@ -1,0 +1,10 @@
+citations: null
+description: Reduce the amount of food waste generated per capita
+identifiers:
+  transformation_code: TX:WASO:DEC_CONSUMER_FOOD_WASTE_STRATEGY_ADDITIONAL_ACTIONS
+  transformation_name: 'Scaled Default Max Parameters by 0.7 - WASO: Consumer food
+    waste reduction'
+parameters:
+  magnitude: 0.21
+  vec_implementation_ramp: null
+transformer: TFR:WASO:DEC_CONSUMER_FOOD_WASTE

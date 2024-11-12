@@ -1,0 +1,9 @@
+citations: null
+description: "None"
+identifiers:
+  transformation_code: "TX:INEN:INC_EFFICIENCY_PRODUCTION"
+  transformation_name: "Default Value - INEN: Maximize industrial production efficiency"
+parameters:
+  magnitude: 0.4
+  vec_implementation_ramp: null
+transformer: "TFR:INEN:INC_EFFICIENCY_PRODUCTION"

@@ -1,0 +1,13 @@
+citations: null
+description: None
+identifiers:
+  transformation_code: TX:TRNS:SHIFT_FUEL_RAIL_STRATEGY_NDC
+  transformation_name: 'Scaled Default Max Parameters by 0.6 - TRNS: Electrify rail'
+parameters:
+  categories:
+  - rail_freight
+  - rail_passenger
+  dict_fuel_allocation: null
+  magnitude: 0.15
+  vec_implementation_ramp: null
+transformer: TFR:TRNS:SHIFT_FUEL_RAIL
