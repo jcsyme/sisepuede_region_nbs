@@ -1,4 +1,5 @@
 inputs:
+  # electricity generation by source
   iea_electricity_generation_by_source:
     citations:
       bibtex:
@@ -15,8 +16,11 @@ inputs:
     year:
       year_min: 2010
       year_max: 2100
+  # commercial and public services
   iea_total_consumption_by_source_cps:
     field_iea_index_renamed: iea_fuel
+    regex_csv: International Energy Agency - commercial and public services total final consumption by source in (.*\D).csv
+    regex_field_rename: commercial and public services total final consumption by source in (.*\D$) 
     repo:
       kwargs:
         # kill error that shows up when no file is found--will skip
@@ -25,8 +29,11 @@ inputs:
     year:
       year_min: 2010
       year_max: 2100
+  # industrial
   iea_total_consumption_by_source_ind:
     field_iea_index_renamed: iea_fuel
+    regex_csv: International Energy Agency - industry total final consumption by source in (.*\D).csv
+    regex_field_rename: industry total final consumption by source in (.*\D$) 
     repo:
       kwargs:
         # kill error that shows up when no file is found--will skip
@@ -35,8 +42,11 @@ inputs:
     year:
       year_min: 2010
       year_max: 2100
+  # residential
   iea_total_consumption_by_source_res:
     field_iea_index_renamed: iea_fuel
+    regex_csv: International Energy Agency - residential total final consumption by source in (.*\D).csv
+    regex_field_rename: residential total final consumption by source in (.*\D$) 
     repo:
       kwargs:
         # kill error that shows up when no file is found--will skip
@@ -45,8 +55,11 @@ inputs:
     year:
       year_min: 2010
       year_max: 2100
-  iea_total_consumption_by_source_tra:
+  # transportation
+  iea_total_consumption_by_source_trn:
     field_iea_index_renamed: iea_fuel
+    regex_csv: International Energy Agency - transport total final consumption by source in (.*\D).csv
+    regex_field_rename: transport total final consumption by source in (.*\D$) 
     repo:
       kwargs:
         # kill error that shows up when no file is found--will skip
