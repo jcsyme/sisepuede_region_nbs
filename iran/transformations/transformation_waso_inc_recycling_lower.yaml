@@ -1,0 +1,9 @@
+citations: null
+description: "None"
+identifiers:
+  transformation_code: "TX:WASO:INC_RECYCLING_LOWER"
+  transformation_name: "Default Value (50%) - WASO: Increase recycling"
+parameters:
+  magnitude: 0.5
+  vec_implementation_ramp: null
+transformer: "TFR:WASO:INC_RECYCLING"

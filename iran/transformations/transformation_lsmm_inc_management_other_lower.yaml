@@ -1,0 +1,14 @@
+citations: null
+description: " | 95% of manure from all other animals is treated. The manure treated\
+  \ is sent to the following pathways:\r\n |    10.0% to Composting\r\n |    10.0% to Daily Spread\r\n"
+identifiers:
+  transformation_code: "TX:LSMM:INC_MANAGEMENT_OTHER_LOWER"
+  transformation_name: "Lower Default Value - LSMM: Improve manure management for other\
+    \ animals"
+parameters:
+  dict_lsmm_pathways:
+    composting: 0.1
+    dry_lot: 0.1
+  vec_cats_lvst: null
+  vec_implementation_ramp: null
+transformer: "TFR:LSMM:INC_MANAGEMENT_OTHER"

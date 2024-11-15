@@ -1,0 +1,10 @@
+citations: null
+description: "None"
+identifiers:
+  transformation_code: "TX:TRNS:INC_EFFICIENCY_ELECTRIC_LOWEST"
+  transformation_name: "Lowest Value (5%) - TRNS: Increase electric transportation energy\
+    \ efficiency"
+parameters:
+  magnitude: 0.05
+  vec_implementation_ramp: null
+transformer: "TFR:TRNS:INC_EFFICIENCY_ELECTRIC"

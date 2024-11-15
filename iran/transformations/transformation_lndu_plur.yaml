@@ -5,6 +5,6 @@ identifiers:
   transformation_name: "Default Value - LNDU: Partial land use reallocation"
 parameters:
   force: false
-  magnitude: 0.5
-  vec_implementation_ramp: null
+  magnitude: 0.075
+  vec_implementation_ramp: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1]
 transformer: "TFR:LNDU:PLUR"

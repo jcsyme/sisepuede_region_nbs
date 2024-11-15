@@ -3,7 +3,7 @@ description: "Increase fraction of waste that is otherwise untreated (i.e., post
   \ composting, etc.) that is sent to landfills"
 identifiers:
   transformation_code: "TX:WASO:INC_LANDFILLING"
-  transformation_name: "Default Value - WASO: Increase landfilling"
+  transformation_name: "Default Value (100%) - WASO: Increase landfilling"
 parameters:
   magnitude: 1.0
   vec_implementation_ramp: null

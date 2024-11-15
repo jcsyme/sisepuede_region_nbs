@@ -1,9 +1,0 @@
-citations: null
-description: "None"
-identifiers:
-  transformation_code: "TX:TRDE:DEC_DEMAND_URBPLAN"
-  transformation_name: "TRDE: Reduce demand for transport due to urban planning"
-parameters:
-  magnitude: 0.1
-  vec_implementation_ramp: null
-transformer: "TFR:TRDE:DEC_DEMAND"

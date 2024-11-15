@@ -1,0 +1,9 @@
+citations: null
+description: "None"
+identifiers:
+  transformation_code: "TX:WASO:INC_ENERGY_FROM_INCINERATION_LOWER"
+  transformation_name: "Lower Value (50%) - WASO: Incineration for energy production"
+parameters:
+  magnitude: 0.5
+  vec_implementation_ramp: null
+transformer: "TFR:WASO:INC_ENERGY_FROM_INCINERATION"

@@ -1,0 +1,14 @@
+citations: null
+description: "Reduce enteric fermentation"
+identifiers:
+  transformation_code: "TX:LVST:DEC_ENTERIC_FERMENTATION_LOWER"
+  transformation_name: "Lower Value (30%) - LVST: Reduce enteric fermentation"
+parameters:
+  dict_lvst_reductions: 
+    buffalo: 0.3
+    cattle_dairy: 0.3
+    cattle_nondairy: 0.3
+    goats: 0.3
+    sheep: 0.3
+  vec_implementation_ramp: null
+transformer: "TFR:LVST:DEC_ENTERIC_FERMENTATION"

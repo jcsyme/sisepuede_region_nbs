@@ -5,6 +5,6 @@ identifiers:
   transformation_code: "TX:AGRC:DEC_CH4_RICE_LOWEST"
   transformation_name: "Lowest Value - AGRC: Improve rice management"
 parameters:
-  magnitude: 0.10
+  magnitude: 0.15
   vec_implementation_ramp: null
 transformer: "TFR:AGRC:DEC_CH4_RICE"

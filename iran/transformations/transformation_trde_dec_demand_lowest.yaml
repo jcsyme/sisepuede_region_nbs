@@ -1,0 +1,9 @@
+citations: null
+description: "None"
+identifiers:
+  transformation_code: "TX:TRDE:DEC_DEMAND_LOWEST"
+  transformation_name: "TRDE: Reduce demand for transport by 5%"
+parameters:
+  magnitude: 0.05
+  vec_implementation_ramp: null
+transformer: "TFR:TRDE:DEC_DEMAND"

@@ -1,5 +1,5 @@
 citations: null
-description: "Set a target for clean hydrogen production. "
+description: "Set a target for clean hydrogen production of 95%. "
 identifiers:
   transformation_code: "TX:ENTC:TARGET_CLEAN_HYDROGEN"
   transformation_name: "Default Value - ENTC: Clean hydrogen"

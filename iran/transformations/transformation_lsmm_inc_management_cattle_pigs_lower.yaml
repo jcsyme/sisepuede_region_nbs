@@ -1,0 +1,16 @@
+citations: null
+description: " | 95% of manure from cattle (dairy and non-dairy) and pigs is treated.\
+  \ Under default conditions, the manure treated is sent to the following pathways:\n\
+  \ |    10.% to Anaerobic Digestion\n |    10.0% to Daily\
+  \ Spread\n"
+identifiers:
+  transformation_code: "TX:LSMM:INC_MANAGEMENT_CATTLE_PIGS_LOWER"
+  transformation_name: "Lower Value - LSMM: Improve manure management for cattle\
+    \ and pigs"
+parameters:
+  dict_lsmm_pathways:
+    anaerobic_digestion: 0.1
+    daily_spread: 0.1
+  vec_cats_lvst: null
+  vec_implementation_ramp: null
+transformer: "TFR:LSMM:INC_MANAGEMENT_CATTLE_PIGS"
