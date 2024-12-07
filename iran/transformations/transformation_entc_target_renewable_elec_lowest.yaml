@@ -8,7 +8,10 @@ identifiers:
 parameters:
   categories_entc_max_investment_ramp: null
   categories_entc_renewable: null
-  dict_entc_renewable_target_msp: {}
+  dict_entc_renewable_target_msp:
+    pp_solar: 0.075
+    pp_wind: 0.225
   magnitude: 0.30
+  scale_non_renewables_to_match_surplus_msp: True
   vec_implementation_ramp: null
 transformer: "TFR:ENTC:TARGET_RENEWABLE_ELEC"
