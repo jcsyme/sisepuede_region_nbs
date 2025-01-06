@@ -1,0 +1,15 @@
+citations: null
+description: None
+identifiers:
+  transformation_code: TX:TRNS:SHIFT_FUEL_MARITIME_STRATEGY_NDC_2_SCENARIO
+  transformation_name: 'Scaled Default Max Parameters by 0.5 - TRNS: Fuel switch maritime'
+parameters:
+  categories:
+  - water_borne
+  dict_allocation_fuels_target: null
+  fuels_source:
+  - fuel_diesel
+  - fuel_gasoline
+  magnitude: 0.35
+  vec_implementation_ramp: null
+transformer: TFR:TRNS:SHIFT_FUEL_MARITIME

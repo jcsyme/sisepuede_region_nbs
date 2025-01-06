@@ -1,0 +1,11 @@
+citations: null
+description: Reduce :math:`\text{CH}_4` emissions from rice production by 45% due
+  to improved management and reduced flooding.
+identifiers:
+  transformation_code: TX:AGRC:DEC_CH4_RICE_STRATEGY_NDC_UNCON
+  transformation_name: 'Scaled Default Max Parameters by 0.3 - AGRC: Improve rice
+    management'
+parameters:
+  magnitude: 0.135
+  vec_implementation_ramp: null
+transformer: TFR:AGRC:DEC_CH4_RICE

@@ -2,9 +2,9 @@ citations: null
 description: None
 identifiers:
   transformation_code: TX:TRWW:INC_COMPLIANCE_SEPTIC_STRATEGY_NET_ZERO
-  transformation_name: 'Scaled Default Max Parameters by 0.9 - TRWW: Increase septic
+  transformation_name: 'Scaled Default Max Parameters by 1.0 - TRWW: Increase septic
     compliance'
 parameters:
-  magnitude: 0.81
+  magnitude: 0.9
   vec_implementation_ramp: null
 transformer: TFR:TRWW:INC_COMPLIANCE_SEPTIC

@@ -1,0 +1,16 @@
+citations: null
+description: " | Decrease soil organic carbon loss in croplands and leave crop residues\
+  \ (reduce fraction removed and burned)\r\n | \r\n | **Croplands**: Increases :math:`F_{MG}`\
+  \ for ``croplands`` to 1.067 (see V4, Chapter 5, Table 5.5 [2019R] for croplands\
+  \ management factors :math:`F_{MG}` under different management regimes--mean of\
+  \ *No-Till*)"
+identifiers:
+  transformation_code: TX:AGRC:INC_CONSERVATION_AGRICULTURE_STRATEGY_NDC_2_SCENARIO
+  transformation_name: 'Scaled Default Max Parameters by 0.5 - AGRC: Expand conservation
+    agriculture'
+parameters:
+  dict_categories_to_magnitude: null
+  magnitude_burned: 0.0
+  magnitude_removed: 0.5
+  vec_implementation_ramp: null
+transformer: TFR:AGRC:INC_CONSERVATION_AGRICULTURE

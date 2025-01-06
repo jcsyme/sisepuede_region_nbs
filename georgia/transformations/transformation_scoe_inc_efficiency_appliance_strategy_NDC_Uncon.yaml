@@ -1,0 +1,10 @@
+citations: null
+description: None
+identifiers:
+  transformation_code: TX:SCOE:INC_EFFICIENCY_APPLIANCE_STRATEGY_NDC_UNCON
+  transformation_name: 'Scaled Default Max Parameters by 0.3 - SCOE: Increase appliance
+    efficiency'
+parameters:
+  magnitude: 0.15
+  vec_implementation_ramp: null
+transformer: TFR:SCOE:INC_EFFICIENCY_APPLIANCE

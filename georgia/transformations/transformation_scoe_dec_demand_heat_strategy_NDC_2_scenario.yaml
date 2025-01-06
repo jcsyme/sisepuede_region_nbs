@@ -1,0 +1,10 @@
+citations: null
+description: None
+identifiers:
+  transformation_code: TX:SCOE:DEC_DEMAND_HEAT_STRATEGY_NDC_2_SCENARIO
+  transformation_name: 'Scaled Default Max Parameters by 0.5 - SCOE: Reduce end-use
+    demand for heat energy by improving building shell'
+parameters:
+  magnitude: 0.25
+  vec_implementation_ramp: null
+transformer: TFR:SCOE:DEC_DEMAND_HEAT

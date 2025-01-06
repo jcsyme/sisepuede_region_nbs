@@ -1,9 +1,0 @@
-citations: null
-description: None
-identifiers:
-  transformation_code: TX:WASO:INC_RECYCLING_STRATEGY_POLICIES_A
-  transformation_name: 'Scaled Default Max Parameters by 0.33 - WASO: Increase recycling'
-parameters:
-  magnitude: 0.3135
-  vec_implementation_ramp: null
-transformer: TFR:WASO:INC_RECYCLING

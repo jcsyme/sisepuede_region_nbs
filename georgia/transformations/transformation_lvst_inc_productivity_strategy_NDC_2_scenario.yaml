@@ -1,0 +1,10 @@
+citations: null
+description: Increase inferred livestock carrying capacity by 20%
+identifiers:
+  transformation_code: TX:LVST:INC_PRODUCTIVITY_STRATEGY_NDC_2_SCENARIO
+  transformation_name: 'Scaled Default Max Parameters by 0.8 - LVST: Increase livestock
+    productivity'
+parameters:
+  magnitude: 0.24
+  vec_implementation_ramp: null
+transformer: TFR:LVST:INC_PRODUCTIVITY

@@ -3,7 +3,7 @@ description: 'Transformations for both (and/or) low and high-heat should be impl
   using this transformer. '
 identifiers:
   transformation_code: TX:INEN:SHIFT_FUEL_HEAT_STRATEGY_NET_ZERO
-  transformation_name: 'Scaled Default Max Parameters by 0.9 - INEN: Fuel switch high-
+  transformation_name: 'Scaled Default Max Parameters by 1.0 - INEN: Fuel switch high-
     and low-temp thermal processes. '
 parameters:
   frac_high_given_high: null

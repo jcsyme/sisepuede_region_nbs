@@ -1,0 +1,10 @@
+citations: null
+description: Reduce waste food waste in the agricultural (crop) supply chain (pre-consumer)
+identifiers:
+  transformation_code: TX:AGRC:DEC_LOSSES_SUPPLY_CHAIN_STRATEGY_NDC_UNCON
+  transformation_name: 'Scaled Default Max Parameters by 0.3 - AGRC: Reduce supply
+    chain losses'
+parameters:
+  magnitude: 0.09
+  vec_implementation_ramp: null
+transformer: TFR:AGRC:DEC_LOSSES_SUPPLY_CHAIN

@@ -2,9 +2,9 @@ citations: null
 description: Reduces use of clinker in cement production
 identifiers:
   transformation_code: TX:IPPU:DEC_CLINKER_STRATEGY_NET_ZERO
-  transformation_name: 'Scaled Default Max Parameters by 0.5 - IPPU: Reduce cement
+  transformation_name: 'Scaled Default Max Parameters by 1.0 - IPPU: Reduce cement
     clinker'
 parameters:
-  magnitude: 0.25
+  magnitude: 0.5
   vec_implementation_ramp: null
 transformer: TFR:IPPU:DEC_CLINKER

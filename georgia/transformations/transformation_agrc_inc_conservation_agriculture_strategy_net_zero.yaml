@@ -6,7 +6,7 @@ description: " | Decrease soil organic carbon loss in croplands and leave crop r
   \ *No-Till*)"
 identifiers:
   transformation_code: TX:AGRC:INC_CONSERVATION_AGRICULTURE_STRATEGY_NET_ZERO
-  transformation_name: 'Scaled Default Max Parameters by 0.95 - AGRC: Expand conservation
+  transformation_name: 'Scaled Default Max Parameters by 2.0 - AGRC: Expand conservation
     agriculture'
 parameters:
   dict_categories_to_magnitude: null

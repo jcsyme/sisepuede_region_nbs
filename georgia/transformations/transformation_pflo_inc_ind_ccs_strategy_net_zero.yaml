@@ -2,7 +2,7 @@ citations: null
 description: Affects both INEN and IPPU.
 identifiers:
   transformation_code: TX:PFLO:INC_IND_CCS_STRATEGY_NET_ZERO
-  transformation_name: 'Scaled Default Max Parameters by 0.8 - PFLO: Industrial carbon
+  transformation_name: 'Scaled Default Max Parameters by 1.0 - PFLO: Industrial carbon
     capture and sequestration'
 parameters:
   dict_magnitude_eff: 0.9

@@ -2,7 +2,7 @@ citations: null
 description: None
 identifiers:
   transformation_code: TX:TRNS:SHIFT_FUEL_MARITIME_STRATEGY_NET_ZERO
-  transformation_name: 'Scaled Default Max Parameters by 0.7 - TRNS: Fuel switch maritime'
+  transformation_name: 'Scaled Default Max Parameters by 2.0 - TRNS: Fuel switch maritime'
 parameters:
   categories:
   - water_borne
@@ -10,6 +10,6 @@ parameters:
   fuels_source:
   - fuel_diesel
   - fuel_gasoline
-  magnitude: 0.48999999999999994
+  magnitude: 1.4
   vec_implementation_ramp: null
 transformer: TFR:TRNS:SHIFT_FUEL_MARITIME
