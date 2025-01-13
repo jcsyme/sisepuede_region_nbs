@@ -1,0 +1,9 @@
+citations: null
+description: "Reduce enteric fermentation"
+identifiers:
+  transformation_code: "TX:LVST:DEC_ENTERIC_FERMENTATION"
+  transformation_name: "Default Value - LVST: Reduce enteric fermentation"
+parameters:
+  dict_lvst_reductions: null
+  vec_implementation_ramp: null
+transformer: "TFR:LVST:DEC_ENTERIC_FERMENTATION"

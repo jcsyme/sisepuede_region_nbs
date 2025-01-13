@@ -1,0 +1,9 @@
+citations: null
+description: "Increase crop yield factors by 20%"
+identifiers:
+  transformation_code: "TX:AGRC:INC_PRODUCTIVITY"
+  transformation_name: "Default Value - AGRC: Improve crop productivity"
+parameters:
+  magnitude: 0.2
+  vec_implementation_ramp: null
+transformer: "TFR:AGRC:INC_PRODUCTIVITY"

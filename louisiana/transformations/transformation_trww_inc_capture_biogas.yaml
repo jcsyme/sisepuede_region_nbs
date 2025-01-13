@@ -1,0 +1,9 @@
+citations: null
+description: "None"
+identifiers:
+  transformation_code: "TX:TRWW:INC_CAPTURE_BIOGAS"
+  transformation_name: "Default Value - TRWW: Increase biogas capture"
+parameters:
+  magnitude: 0.85
+  vec_implementation_ramp: null
+transformer: "TFR:TRWW:INC_CAPTURE_BIOGAS"

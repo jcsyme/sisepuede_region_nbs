@@ -1,0 +1,9 @@
+citations: null
+description: "None"
+identifiers:
+  transformation_code: "TX:WALI:INC_TREATMENT_RURAL"
+  transformation_name: "Default Value - WALI: Improved rural wastewater treatment"
+parameters:
+  dict_magnitude: null
+  vec_implementation_ramp: null
+transformer: "TFR:WALI:INC_TREATMENT_RURAL"
