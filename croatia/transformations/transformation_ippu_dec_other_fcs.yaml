@@ -1,0 +1,9 @@
+citations: null
+description: "Includes SF6, NF3, HCFCs, and others"
+identifiers:
+  transformation_code: "TX:IPPU:DEC_OTHER_FCS"
+  transformation_name: "Default Value - IPPU: Reduce other fluorinated compounds"
+parameters:
+  magnitude: 0.1
+  vec_implementation_ramp: null
+transformer: "TFR:IPPU:DEC_OTHER_FCS"
