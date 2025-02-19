@@ -1,0 +1,10 @@
+citations: null
+description: "Decrease exports of livestock and livestock products by 50% (relative\
+  \ to final time period)"
+identifiers:
+  transformation_code: "TX:LVST:DEC_EXPORTS"
+  transformation_name: "Default Value - LVST: Decrease exports"
+parameters:
+  magnitude: 0.5
+  vec_implementation_ramp: null
+transformer: "TFR:LVST:DEC_EXPORTS"

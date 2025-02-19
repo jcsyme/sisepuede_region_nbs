@@ -1,0 +1,9 @@
+citations: null
+description: "Halt deforestation of primary and secondary forests"
+identifiers:
+  transformation_code: "TX:LNDU:DEC_DEFORESTATION"
+  transformation_name: "Default Value - LNDU: Stop deforestation"
+parameters:
+  magnitude: 0.99999
+  vec_implementation_ramp: null
+transformer: "TFR:LNDU:DEC_DEFORESTATION"

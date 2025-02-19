@@ -1,0 +1,9 @@
+citations: null
+description: "None"
+identifiers:
+  transformation_code: "TX:IPPU:DEC_N2O"
+  transformation_name: "Default Value - IPPU: Reduce Nitrous Oxide emissions"
+parameters:
+  magnitude: 0.1
+  vec_implementation_ramp: null
+transformer: "TFR:IPPU:DEC_N2O"
