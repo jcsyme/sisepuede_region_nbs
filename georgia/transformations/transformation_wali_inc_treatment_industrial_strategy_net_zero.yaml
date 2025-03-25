@@ -1,0 +1,10 @@
+citations: null
+description: None
+identifiers:
+  transformation_code: TX:WALI:INC_TREATMENT_INDUSTRIAL_STRATEGY_NET_ZERO
+  transformation_name: 'Scaled Default Max Parameters by 2.0 - WALI: Improved industrial
+    wastewater treatment'
+parameters:
+  dict_magnitude: null
+  vec_implementation_ramp: null
+transformer: TFR:WALI:INC_TREATMENT_INDUSTRIAL

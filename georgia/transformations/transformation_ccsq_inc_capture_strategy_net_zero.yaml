@@ -1,0 +1,10 @@
+citations: null
+description: Increase Direct Air Capture deployment to 50 MT CO2e by 2050
+identifiers:
+  transformation_code: TX:CCSQ:INC_CAPTURE_STRATEGY_NET_ZERO
+  transformation_name: 'Scaled Default Max Parameters by 0.05 - CCSQ: Increase direct
+    air capture'
+parameters:
+  magnitude: 2.5
+  vec_implementation_ramp: null
+transformer: TFR:CCSQ:INC_CAPTURE

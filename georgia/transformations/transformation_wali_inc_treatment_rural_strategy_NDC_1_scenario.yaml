@@ -1,0 +1,10 @@
+citations: null
+description: None
+identifiers:
+  transformation_code: TX:WALI:INC_TREATMENT_RURAL_STRATEGY_NDC_1_SCENARIO
+  transformation_name: 'Scaled Default Max Parameters by 1.0 - WALI: Improved rural
+    wastewater treatment'
+parameters:
+  dict_magnitude: null
+  vec_implementation_ramp: null
+transformer: TFR:WALI:INC_TREATMENT_RURAL

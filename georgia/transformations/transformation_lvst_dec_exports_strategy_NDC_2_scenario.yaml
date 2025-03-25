@@ -1,0 +1,10 @@
+citations: null
+description: Decrease exports of livestock and livestock products by 50% (relative
+  to final time period)
+identifiers:
+  transformation_code: TX:LVST:DEC_EXPORTS_STRATEGY_NDC_2_SCENARIO
+  transformation_name: 'Scaled Default Max Parameters by 0.8 - LVST: Decrease exports'
+parameters:
+  magnitude: 0.4
+  vec_implementation_ramp: null
+transformer: TFR:LVST:DEC_EXPORTS

@@ -1,0 +1,9 @@
+citations: null
+description: None
+identifiers:
+  transformation_code: TX:IPPU:DEC_DEMAND_STRATEGY_NET_ZERO
+  transformation_name: 'Scaled Default Max Parameters by 0.0001 - IPPU: Demand management'
+parameters:
+  magnitude: 3.0e-05
+  vec_implementation_ramp: null
+transformer: TFR:IPPU:DEC_DEMAND

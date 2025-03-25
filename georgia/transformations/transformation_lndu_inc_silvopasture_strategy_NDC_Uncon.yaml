@@ -1,0 +1,11 @@
+citations: null
+description: Increase the use of silvopasture; modeled by shifting 30% of pasture
+  (in final time period) to secondary forests over time; livestock carrying capacities
+  increase to meet the change, while pasture fractions of grassland decrease.
+identifiers:
+  transformation_code: TX:LNDU:INC_SILVOPASTURE_STRATEGY_NDC_UNCON
+  transformation_name: 'Scaled Default Max Parameters by 0.3 - LNDU: Expand silvopasture'
+parameters:
+  magnitude: 0.03
+  vec_implementation_ramp: null
+transformer: TFR:LNDU:INC_SILVOPASTURE

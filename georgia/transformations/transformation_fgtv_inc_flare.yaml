@@ -1,0 +1,9 @@
+citations: null
+description: "None"
+identifiers:
+  transformation_code: "TX:FGTV:INC_FLARE"
+  transformation_name: "Default Value - FGTV: Maximize flaring"
+parameters:
+  magnitude: 0.8
+  vec_implementation_ramp: null
+transformer: "TFR:FGTV:INC_FLARE"

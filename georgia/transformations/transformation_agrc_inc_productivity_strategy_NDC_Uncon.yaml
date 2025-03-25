@@ -1,0 +1,10 @@
+citations: null
+description: Increase crop yield factors by 20%
+identifiers:
+  transformation_code: TX:AGRC:INC_PRODUCTIVITY_STRATEGY_NDC_UNCON
+  transformation_name: 'Scaled Default Max Parameters by 0.3 - AGRC: Improve crop
+    productivity'
+parameters:
+  magnitude: 0.06
+  vec_implementation_ramp: null
+transformer: TFR:AGRC:INC_PRODUCTIVITY

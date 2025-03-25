@@ -1,0 +1,10 @@
+citations: null
+description: Decrease agricultural exports by 50% (relative to final time period)
+identifiers:
+  transformation_code: TX:AGRC:DEC_EXPORTS_STRATEGY_NET_ZERO
+  transformation_name: 'Scaled Default Max Parameters by 2.0 - AGRC: Decrease Exports'
+parameters:
+  magnitude: 1.0
+  magnitude_type: baseline_scalar
+  vec_implementation_ramp: null
+transformer: TFR:AGRC:DEC_EXPORTS

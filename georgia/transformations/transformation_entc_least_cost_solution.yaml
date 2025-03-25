@@ -1,0 +1,8 @@
+citations: null
+description: "None"
+identifiers:
+  transformation_code: "TX:ENTC:LEAST_COST_SOLUTION"
+  transformation_name: "Default Value - ENTC: Least cost solution"
+parameters:
+  vec_implementation_ramp: null
+transformer: "TFR:ENTC:LEAST_COST_SOLUTION"
