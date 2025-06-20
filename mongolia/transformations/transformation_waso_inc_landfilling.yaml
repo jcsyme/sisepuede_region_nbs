@@ -1,0 +1,10 @@
+citations: null
+description: "Increase fraction of waste that is otherwise untreated (i.e., post recycling,\
+  \ composting, etc.) that is sent to landfills"
+identifiers:
+  transformation_code: "TX:WASO:INC_LANDFILLING"
+  transformation_name: "Default Value - WASO: Increase landfilling"
+parameters:
+  magnitude: 1.0
+  vec_implementation_ramp: null
+transformer: "TFR:WASO:INC_LANDFILLING"

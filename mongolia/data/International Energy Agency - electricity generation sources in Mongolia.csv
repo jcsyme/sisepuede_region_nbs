@@ -1,0 +1,116 @@
+"electricity generation sources in Mongolia",Value,Year,Units
+"Coal",2854,2000, GWh
+"Coal",2915,2001, GWh
+"Coal",3020,2002, GWh
+"Coal",3035,2003, GWh
+"Coal",3187,2004, GWh
+"Coal",3311,2005, GWh
+"Coal",3426,2006, GWh
+"Coal",3547,2007, GWh
+"Coal",3829,2008, GWh
+"Coal",3860,2009, GWh
+"Coal",4090,2010, GWh
+"Coal",4238,2011, GWh
+"Coal",4502,2012, GWh
+"Coal",4629,2013, GWh
+"Coal",4934,2014, GWh
+"Coal",5062,2015, GWh
+"Coal",5227,2016, GWh
+"Coal",5502,2017, GWh
+"Coal",5801,2018, GWh
+"Coal",5848,2019, GWh
+"Coal",5573,2020, GWh
+"Coal",6269,2021, GWh
+"Coal",6651,2022, GWh
+"Oil",88,2000, GWh
+"Oil",98,2001, GWh
+"Oil",88,2002, GWh
+"Oil",99,2003, GWh
+"Oil",112,2004, GWh
+"Oil",104,2005, GWh
+"Oil",114,2006, GWh
+"Oil",150,2007, GWh
+"Oil",160,2008, GWh
+"Oil",152,2009, GWh
+"Oil",179,2010, GWh
+"Oil",236,2011, GWh
+"Oil",253,2012, GWh
+"Oil",269,2013, GWh
+"Oil",242,2014, GWh
+"Oil",230,2015, GWh
+"Oil",193,2016, GWh
+"Oil",278,2017, GWh
+"Oil",295,2018, GWh
+"Oil",373,2019, GWh
+"Oil",355,2020, GWh
+"Oil",340,2021, GWh
+"Oil",339,2022, GWh
+"Hydro",4,2000, GWh
+"Hydro",4,2001, GWh
+"Hydro",4,2002, GWh
+"Hydro",4,2003, GWh
+"Hydro",4,2004, GWh
+"Hydro",4,2005, GWh
+"Hydro",4,2006, GWh
+"Hydro",4,2007, GWh
+"Hydro",5,2008, GWh
+"Hydro",20,2009, GWh
+"Hydro",35,2010, GWh
+"Hydro",53,2011, GWh
+"Hydro",52,2012, GWh
+"Hydro",60,2013, GWh
+"Hydro",66,2014, GWh
+"Hydro",59,2015, GWh
+"Hydro",85,2016, GWh
+"Hydro",83,2017, GWh
+"Hydro",78,2018, GWh
+"Hydro",85,2019, GWh
+"Hydro",83,2020, GWh
+"Hydro",78,2021, GWh
+"Hydro",63,2022, GWh
+"Wind",,2000, GWh
+"Wind",,2001, GWh
+"Wind",,2002, GWh
+"Wind",,2003, GWh
+"Wind",,2004, GWh
+"Wind",,2005, GWh
+"Wind",,2006, GWh
+"Wind",,2007, GWh
+"Wind",,2008, GWh
+"Wind",,2009, GWh
+"Wind",1,2010, GWh
+"Wind",1,2011, GWh
+"Wind",1,2012, GWh
+"Wind",54,2013, GWh
+"Wind",126,2014, GWh
+"Wind",154,2015, GWh
+"Wind",154,2016, GWh
+"Wind",136,2017, GWh
+"Wind",301,2018, GWh
+"Wind",476,2019, GWh
+"Wind",476,2020, GWh
+"Wind",580,2021, GWh
+"Wind",509,2022, GWh
+"Solar PV",,2000, GWh
+"Solar PV",,2001, GWh
+"Solar PV",,2002, GWh
+"Solar PV",,2003, GWh
+"Solar PV",,2004, GWh
+"Solar PV",,2005, GWh
+"Solar PV",,2006, GWh
+"Solar PV",,2007, GWh
+"Solar PV",7,2008, GWh
+"Solar PV",7,2009, GWh
+"Solar PV",8,2010, GWh
+"Solar PV",8,2011, GWh
+"Solar PV",8,2012, GWh
+"Solar PV",8,2013, GWh
+"Solar PV",8,2014, GWh
+"Solar PV",8,2015, GWh
+"Solar PV",8,2016, GWh
+"Solar PV",27,2017, GWh
+"Solar PV",58,2018, GWh
+"Solar PV",116,2019, GWh
+"Solar PV",116,2020, GWh
+"Solar PV",164,2021, GWh
+"Solar PV",186,2022, GWh
