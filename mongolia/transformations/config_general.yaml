@@ -3,7 +3,7 @@ baseline:
   categories_entc_pps_to_cap: null
   categories_entc_renewable: null
   dict_entc_renewable_target_msp_baseline: {}
-  magnitude_lurf: 0.0
+  magnitude_lurf: 0.5
   vec_implementation_ramp:
     alpha_logistic: 0.0
     d: 0
