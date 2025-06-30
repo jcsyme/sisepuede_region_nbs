@@ -1,0 +1,37 @@
+baseline:
+  categories_entc_max_investment_ramp: null
+  categories_entc_pps_to_cap: null
+  categories_entc_renewable: null
+  dict_entc_renewable_target_msp_baseline: {}
+  magnitude_lurf: 0.0
+  vec_implementation_ramp:
+    alpha_logistic: 0.0
+    d: 0
+    n_tp_ramp: null
+    tp_0_ramp: null
+    window_logistic:
+    - -8
+    - 8
+general:
+  categories_entc_max_investment_ramp: null
+  categories_entc_pps_to_cap: null
+  categories_entc_renewable: null
+  categories_inen_high_heat_to_frac:
+    cement: 0.88
+    chemicals: 0.5
+    glass: 0.88
+    lime_and_carbonite: 0.88
+    metals: 0.92
+    paper: 0.18
+  frac_inen_high_temp_elec_hydg: 0.45
+  frac_inen_low_temp_elec: 0.4275
+  vec_implementation_ramp:
+    alpha_logistic: 0.0
+    d: 0
+    n_tp_ramp: null
+    tp_0_ramp: null
+    window_logistic:
+    - -8
+    - 8
+  vir_renewable_cap_delta_frac: 0.0075
+  vir_renewable_cap_max_frac: 0.125

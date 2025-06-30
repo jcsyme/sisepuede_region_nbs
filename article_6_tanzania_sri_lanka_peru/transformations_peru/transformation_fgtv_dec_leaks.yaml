@@ -1,0 +1,9 @@
+citations: null
+description: "None"
+identifiers:
+  transformation_code: "TX:FGTV:DEC_LEAKS"
+  transformation_name: "Default Value - FGTV: Minimize leaks"
+parameters:
+  magnitude: 0.8
+  vec_implementation_ramp: null
+transformer: "TFR:FGTV:DEC_LEAKS"

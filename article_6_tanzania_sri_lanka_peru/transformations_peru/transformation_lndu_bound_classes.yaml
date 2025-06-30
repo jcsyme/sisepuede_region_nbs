@@ -1,0 +1,11 @@
+citations: null
+description: "Land use classes are estimated using a transition matrix and ajdusted\
+  \ using a quadratic program. This transformation sets a constraint on the amount\
+  \ of land that "
+identifiers:
+  transformation_code: "TX:LNDU:BOUND_CLASSES"
+  transformation_name: "Default Value - LNDU: Bound Classes"
+parameters:
+  dict_directional_categories_to_magnitude: null
+  vec_implementation_ramp: null
+transformer: "TFR:LNDU:BOUND_CLASSES"
