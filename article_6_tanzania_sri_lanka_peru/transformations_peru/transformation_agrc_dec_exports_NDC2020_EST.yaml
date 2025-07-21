@@ -1,0 +1,11 @@
+citations: null
+description: Decrease agricultural exports by 50% (relative to final time period)
+identifiers:
+  transformation_code: TX:AGRC:DEC_EXPORTS_NDC2020_EST
+  transformation_name: 'Default Value - AGRC: Decrease Exports with year starting
+    in 2020 to reflect retrospective 2020 NDC and magnitude adjusted '
+parameters:
+  magnitude: 0.25
+  magnitude_type: baseline_scalar
+  vec_implementation_ramp: null
+transformer: TFR:AGRC:DEC_EXPORTS

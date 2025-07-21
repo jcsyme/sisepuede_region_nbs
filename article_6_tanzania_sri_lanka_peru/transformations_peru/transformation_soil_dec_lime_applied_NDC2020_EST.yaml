@@ -1,0 +1,10 @@
+citations: null
+description: Decrease lime applied to soils (default 5%)
+identifiers:
+  transformation_code: TX:SOIL:DEC_LIME_APPLIED_NDC2020_EST
+  transformation_name: 'Default Value - SOIL: Improve lime application with year starting
+    in 2020 to reflect retrospective 2020 NDC and magnitude adjusted '
+parameters:
+  magnitude: 0.1
+  vec_implementation_ramp: null
+transformer: TFR:SOIL:DEC_LIME_APPLIED

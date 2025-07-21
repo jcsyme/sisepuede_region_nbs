@@ -1,0 +1,10 @@
+citations: null
+description: None
+identifiers:
+  transformation_code: TX:WASO:INC_RECYCLING_NDC2020_EST
+  transformation_name: 'Default Value - WASO: Increase recycling with year starting
+    in 2020 to reflect retrospective 2020 NDC and magnitude adjusted '
+parameters:
+  magnitude: 0.0011516202379281755
+  vec_implementation_ramp: null
+transformer: TFR:WASO:INC_RECYCLING

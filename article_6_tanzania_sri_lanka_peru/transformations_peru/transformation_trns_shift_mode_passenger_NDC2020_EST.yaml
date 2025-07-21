@@ -1,0 +1,13 @@
+citations: null
+description: None
+identifiers:
+  transformation_code: TX:TRNS:SHIFT_MODE_PASSENGER_NDC2020_EST
+  transformation_name: 'Default Value - TRNS: Mode shift passenger vehicles to others
+    with year starting in 2020 to reflect retrospective 2020 NDC and magnitude adjusted '
+parameters:
+  categories_out:
+  - road_light
+  dict_categories_target: null
+  magnitude: 0.3
+  vec_implementation_ramp: null
+transformer: TFR:TRNS:SHIFT_MODE_PASSENGER

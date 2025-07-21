@@ -1,0 +1,11 @@
+citations: null
+description: Decrease exports of livestock and livestock products by 50% (relative
+  to final time period)
+identifiers:
+  transformation_code: TX:LVST:DEC_EXPORTS_NDC2020_EST
+  transformation_name: 'Default Value - LVST: Decrease exports with year starting
+    in 2020 to reflect retrospective 2020 NDC and magnitude adjusted '
+parameters:
+  magnitude: 0.25
+  vec_implementation_ramp: null
+transformer: TFR:LVST:DEC_EXPORTS

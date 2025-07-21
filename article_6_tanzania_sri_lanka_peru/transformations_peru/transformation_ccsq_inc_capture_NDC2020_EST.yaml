@@ -1,0 +1,10 @@
+citations: null
+description: Increase Direct Air Capture deployment to 50 MT CO2e by 2050
+identifiers:
+  transformation_code: TX:CCSQ:INC_CAPTURE_NDC2020_EST
+  transformation_name: 'Default Value - CCSQ: Increase direct air capture with year
+    starting in 2020 to reflect retrospective 2020 NDC and magnitude adjusted '
+parameters:
+  magnitude: 25.0
+  vec_implementation_ramp: null
+transformer: TFR:CCSQ:INC_CAPTURE

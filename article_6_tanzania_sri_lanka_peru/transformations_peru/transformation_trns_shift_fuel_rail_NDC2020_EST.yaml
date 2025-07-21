@@ -1,0 +1,14 @@
+citations: null
+description: None
+identifiers:
+  transformation_code: TX:TRNS:SHIFT_FUEL_RAIL_NDC2020_EST
+  transformation_name: 'Default Value - TRNS: Electrify rail with year starting in
+    2020 to reflect retrospective 2020 NDC and magnitude adjusted '
+parameters:
+  categories:
+  - rail_freight
+  - rail_passenger
+  dict_fuel_allocation: null
+  magnitude: 0.125
+  vec_implementation_ramp: null
+transformer: TFR:TRNS:SHIFT_FUEL_RAIL

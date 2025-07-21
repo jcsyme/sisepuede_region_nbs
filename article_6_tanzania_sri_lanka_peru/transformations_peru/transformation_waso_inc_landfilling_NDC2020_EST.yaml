@@ -1,0 +1,11 @@
+citations: null
+description: Increase fraction of waste that is otherwise untreated (i.e., post recycling,
+  composting, etc.) that is sent to landfills
+identifiers:
+  transformation_code: TX:WASO:INC_LANDFILLING_NDC2020_EST
+  transformation_name: 'Default Value - WASO: Increase landfilling with year starting
+    in 2020 to reflect retrospective 2020 NDC and magnitude adjusted '
+parameters:
+  magnitude: 0.20705749815580243
+  vec_implementation_ramp: null
+transformer: TFR:WASO:INC_LANDFILLING

@@ -1,0 +1,10 @@
+citations: null
+description: None
+identifiers:
+  transformation_code: TX:FGTV:DEC_LEAKS_NDC2020_EST
+  transformation_name: 'Default Value - FGTV: Minimize leaks with year starting in
+    2020 to reflect retrospective 2020 NDC and magnitude adjusted '
+parameters:
+  magnitude: 0.4
+  vec_implementation_ramp: null
+transformer: TFR:FGTV:DEC_LEAKS

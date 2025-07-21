@@ -1,0 +1,10 @@
+citations: null
+description: Increase inferred livestock carrying capacity by 20%
+identifiers:
+  transformation_code: TX:LVST:INC_PRODUCTIVITY_NDC2020_EST
+  transformation_name: 'Default Value - LVST: Increase livestock productivity with
+    year starting in 2020 to reflect retrospective 2020 NDC and magnitude adjusted '
+parameters:
+  magnitude: 0.00599282604036154
+  vec_implementation_ramp: null
+transformer: TFR:LVST:INC_PRODUCTIVITY

@@ -29,7 +29,7 @@ general:
     alpha_logistic: 0.0
     d: 0
     n_tp_ramp: null
-    tp_0_ramp: null
+    tp_0_ramp: 5
     window_logistic:
     - -8
     - 8

@@ -1,0 +1,10 @@
+citations: null
+description: Increase fraction of biogas captured from landfills and anaerobic digesters
+identifiers:
+  transformation_code: TX:WASO:INC_CAPTURE_BIOGAS_NDC2020_EST
+  transformation_name: 'Default Value - WASO: Increase biogas capture with year starting
+    in 2020 to reflect retrospective 2020 NDC and magnitude adjusted '
+parameters:
+  magnitude: 0.14969410052414794
+  vec_implementation_ramp: null
+transformer: TFR:WASO:INC_CAPTURE_BIOGAS

@@ -1,0 +1,14 @@
+citations: null
+description: None
+identifiers:
+  transformation_code: TX:WALI:INC_TREATMENT_URBAN_NDC2020_EST
+  transformation_name: 'Default Value - WALI: Improved urban wastewater treatment
+    with year starting in 2020 to reflect retrospective 2020 NDC and magnitude adjusted '
+parameters:
+  dict_magnitude:
+    treated_advanced_aerobic: 0.3
+    treated_advanced_anaerobic: 0.3
+    treated_secondary_aerobic: 0.2
+    treated_secondary_anaerobic: 0.2
+  vec_implementation_ramp: null
+transformer: TFR:WALI:INC_TREATMENT_URBAN

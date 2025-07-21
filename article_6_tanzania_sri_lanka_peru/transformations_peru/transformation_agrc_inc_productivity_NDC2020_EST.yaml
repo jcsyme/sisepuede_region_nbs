@@ -1,0 +1,10 @@
+citations: null
+description: Increase crop yield factors by 20%
+identifiers:
+  transformation_code: TX:AGRC:INC_PRODUCTIVITY_NDC2020_EST
+  transformation_name: 'Default Value - AGRC: Improve crop productivity with year
+    starting in 2020 to reflect retrospective 2020 NDC and magnitude adjusted '
+parameters:
+  magnitude: 0.002743982603240255
+  vec_implementation_ramp: null
+transformer: TFR:AGRC:INC_PRODUCTIVITY

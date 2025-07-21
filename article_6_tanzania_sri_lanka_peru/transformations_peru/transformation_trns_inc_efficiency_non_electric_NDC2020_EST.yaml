@@ -1,0 +1,11 @@
+citations: null
+description: None
+identifiers:
+  transformation_code: TX:TRNS:INC_EFFICIENCY_NON_ELECTRIC_NDC2020_EST
+  transformation_name: 'Default Value - TRNS: Increase non-electric transportation
+    energy efficiency with year starting in 2020 to reflect retrospective 2020 NDC
+    and magnitude adjusted '
+parameters:
+  magnitude: 0.09514894704758955
+  vec_implementation_ramp: null
+transformer: TFR:TRNS:INC_EFFICIENCY_NON_ELECTRIC

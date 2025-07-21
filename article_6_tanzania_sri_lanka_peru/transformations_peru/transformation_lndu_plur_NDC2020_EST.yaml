@@ -1,0 +1,11 @@
+citations: null
+description: Set land use reallocation factor to 0.5
+identifiers:
+  transformation_code: TX:LNDU:PLUR_NDC2020_EST
+  transformation_name: 'Default Value - LNDU: Partial land use reallocation with year
+    starting in 2020 to reflect retrospective 2020 NDC and magnitude adjusted '
+parameters:
+  force: false
+  magnitude: 0.25
+  vec_implementation_ramp: null
+transformer: TFR:LNDU:PLUR

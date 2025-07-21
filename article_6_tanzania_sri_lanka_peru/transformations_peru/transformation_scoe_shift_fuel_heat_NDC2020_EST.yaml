@@ -1,0 +1,11 @@
+citations: null
+description: None
+identifiers:
+  transformation_code: TX:SCOE:SHIFT_FUEL_HEAT_NDC2020_EST
+  transformation_name: 'Default Value - SCOE: Switch to electricity for heat using
+    heat pumps, electric stoves, etc. with year starting in 2020 to reflect retrospective
+    2020 NDC and magnitude adjusted '
+parameters:
+  magnitude: 0.011399058703297188
+  vec_implementation_ramp: null
+transformer: TFR:SCOE:SHIFT_FUEL_HEAT

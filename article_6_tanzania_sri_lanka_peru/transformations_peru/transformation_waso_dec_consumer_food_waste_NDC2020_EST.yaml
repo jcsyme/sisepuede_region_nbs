@@ -1,0 +1,10 @@
+citations: null
+description: Reduce the amount of food waste generated per capita
+identifiers:
+  transformation_code: TX:WASO:DEC_CONSUMER_FOOD_WASTE_NDC2020_EST
+  transformation_name: 'Default Value - WASO: Consumer food waste reduction with year
+    starting in 2020 to reflect retrospective 2020 NDC and magnitude adjusted '
+parameters:
+  magnitude: 0.15
+  vec_implementation_ramp: null
+transformer: TFR:WASO:DEC_CONSUMER_FOOD_WASTE
