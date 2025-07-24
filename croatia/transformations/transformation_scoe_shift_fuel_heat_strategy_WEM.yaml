@@ -1,10 +1,10 @@
 citations: null
 description: None
 identifiers:
-  transformation_code: TX:SCOE:SHIFT_FUEL_HEAT_STRATEGY_WEM
-  transformation_name: 'Scaled Default Max Parameters by 0.45 - SCOE: Switch to electricity
-    for heat using heat pumps, electric stoves, etc.'
+  transformation_code: "TX:SCOE:SHIFT_FUEL_HEAT_STRATEGY_WEM"
+  transformation_name: "Scaled Default Max Parameters by 0.45 - SCOE: Switch to electricity\
+    \ for heat using heat pumps, electric stoves, etc."
 parameters:
-  magnitude: 0.4275
+  magnitude: 0.427
   vec_implementation_ramp: null
-transformer: TFR:SCOE:SHIFT_FUEL_HEAT
+transformer: "TFR:SCOE:SHIFT_FUEL_HEAT"

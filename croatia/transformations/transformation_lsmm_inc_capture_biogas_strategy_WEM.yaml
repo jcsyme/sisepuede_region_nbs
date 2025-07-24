@@ -2,10 +2,10 @@ citations: null
 description: Increase the fraction of biogas that is captured at manure treated at
   anaerobic livestock manure treatment facilities
 identifiers:
-  transformation_code: TX:LSMM:INC_CAPTURE_BIOGAS_STRATEGY_WEM
-  transformation_name: 'Scaled Default Max Parameters by 0.4 - LSMM: Increase biogas
-    capture at anaerobic decomposition facilities'
+  transformation_code: "TX:LSMM:INC_CAPTURE_BIOGAS_STRATEGY_WEM"
+  transformation_name: "Scaled Default Max Parameters by 1.05 - LSMM: Increase biogas\
+    \ capture at anaerobic decomposition facilities"
 parameters:
-  magnitude: 0.36000000000000004
+  magnitude: 0.945
   vec_implementation_ramp: null
-transformer: TFR:LSMM:INC_CAPTURE_BIOGAS
+transformer: "TFR:LSMM:INC_CAPTURE_BIOGAS"

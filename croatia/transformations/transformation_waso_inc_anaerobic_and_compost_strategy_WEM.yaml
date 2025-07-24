@@ -2,11 +2,11 @@ citations: null
 description: Increase the fraction of yard, food, and sludge waste that is treated
   by anaerobic digesters or compost
 identifiers:
-  transformation_code: TX:WASO:INC_ANAEROBIC_AND_COMPOST_STRATEGY_WEM
-  transformation_name: 'Scaled Default Max Parameters by 0.9 - WASO: Increase composting
-    and biogas'
+  transformation_code: "TX:WASO:INC_ANAEROBIC_AND_COMPOST_STRATEGY_WEM"
+  transformation_name: "Scaled Default Max Parameters by 0.9 - WASO: Increase composting
+    and biogas"
 parameters:
   magnitude_biogas: 0.855
-  magnitude_compost: 0.095
+  magnitude_compost: 0.145
   vec_implementation_ramp: null
-transformer: TFR:WASO:INC_ANAEROBIC_AND_COMPOST
+transformer: "TFR:WASO:INC_ANAEROBIC_AND_COMPOST"
