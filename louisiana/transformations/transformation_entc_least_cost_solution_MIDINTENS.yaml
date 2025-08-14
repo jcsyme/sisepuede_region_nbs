@@ -1,0 +1,9 @@
+citations: null
+description: None
+identifiers:
+  transformation_code: TX:ENTC:LEAST_COST_SOLUTION_MIDINTENS
+  transformation_name: 'Default Value - ENTC: Least cost solution at medium intensity
+    for jobs run'
+parameters:
+  vec_implementation_ramp: null
+transformer: TFR:ENTC:LEAST_COST_SOLUTION

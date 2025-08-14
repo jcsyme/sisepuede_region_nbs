@@ -1,0 +1,10 @@
+citations: null
+description: "Increase fuel exports by 50% (relative to final time period)"
+identifiers:
+  transformation_code: "TX:ENFU:INC_EXPORTS"
+  transformation_name: "ENFU: Increase Exports by 50%"
+parameters:
+  magnitude: 1.5
+  magnitude_type: baseline_scalar
+  vec_implementation_ramp: null
+transformer: "TFR:ENFU:ADJ_EXPORTS"

@@ -1,0 +1,9 @@
+citations: null
+description: "Increase inferred livestock carrying capacity by 20%"
+identifiers:
+  transformation_code: "TX:LVST:INC_PRODUCTIVITY"
+  transformation_name: "Default Value - LVST: Increase livestock productivity"
+parameters:
+  magnitude: 0.3
+  vec_implementation_ramp: null
+transformer: "TFR:LVST:INC_PRODUCTIVITY"

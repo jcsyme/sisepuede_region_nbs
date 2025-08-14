@@ -1,0 +1,15 @@
+citations: null
+description: Reduce enteric fermentation
+identifiers:
+  transformation_code: TX:LVST:DEC_ENTERIC_FERMENTATION_MIDINTENS
+  transformation_name: 'Default Value - LVST: Reduce enteric fermentation at medium
+    intensity for jobs run'
+parameters:
+  dict_lvst_reductions:
+    buffalo: 0.2
+    cattle_dairy: 0.2
+    cattle_nondairy: 0.2
+    goats: 0.28
+    sheep: 0.28
+  vec_implementation_ramp: null
+transformer: TFR:LVST:DEC_ENTERIC_FERMENTATION

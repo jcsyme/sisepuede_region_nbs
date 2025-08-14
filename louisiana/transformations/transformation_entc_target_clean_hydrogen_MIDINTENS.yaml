@@ -1,0 +1,12 @@
+citations: null
+description: 'Set a target for clean hydrogen production. '
+identifiers:
+  transformation_code: TX:ENTC:TARGET_CLEAN_HYDROGEN_MIDINTENS
+  transformation_name: 'Default Value - ENTC: Clean hydrogen at medium intensity for
+    jobs run'
+parameters:
+  categories_source: null
+  categories_target: null
+  magnitude: 0.475
+  vec_implementation_ramp: null
+transformer: TFR:ENTC:TARGET_CLEAN_HYDROGEN

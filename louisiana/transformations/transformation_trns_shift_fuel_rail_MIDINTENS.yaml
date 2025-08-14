@@ -1,0 +1,14 @@
+citations: null
+description: None
+identifiers:
+  transformation_code: TX:TRNS:SHIFT_FUEL_RAIL_MIDINTENS
+  transformation_name: 'Default Value - TRNS: Electrify rail at medium intensity for
+    jobs run'
+parameters:
+  categories:
+  - rail_freight
+  - rail_passenger
+  dict_fuel_allocation: null
+  magnitude: 0.125
+  vec_implementation_ramp: null
+transformer: TFR:TRNS:SHIFT_FUEL_RAIL

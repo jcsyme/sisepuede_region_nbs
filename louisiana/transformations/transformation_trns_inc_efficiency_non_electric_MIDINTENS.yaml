@@ -1,0 +1,10 @@
+citations: null
+description: None
+identifiers:
+  transformation_code: TX:TRNS:INC_EFFICIENCY_NON_ELECTRIC_MIDINTENS
+  transformation_name: 'Default Value - TRNS: Increase non-electric transportation
+    energy efficiency at medium intensity for jobs run'
+parameters:
+  magnitude: 0.125
+  vec_implementation_ramp: null
+transformer: TFR:TRNS:INC_EFFICIENCY_NON_ELECTRIC

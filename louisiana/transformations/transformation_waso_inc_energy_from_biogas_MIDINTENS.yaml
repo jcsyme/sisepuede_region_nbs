@@ -1,0 +1,10 @@
+citations: null
+description: Increase the fraction of biogas that is collected that is used for energy
+identifiers:
+  transformation_code: TX:WASO:INC_ENERGY_FROM_BIOGAS_MIDINTENS
+  transformation_name: 'Default Value - WASO: Biogas for energy production at medium
+    intensity for jobs run'
+parameters:
+  magnitude: 0.425
+  vec_implementation_ramp: null
+transformer: TFR:WASO:INC_ENERGY_FROM_BIOGAS

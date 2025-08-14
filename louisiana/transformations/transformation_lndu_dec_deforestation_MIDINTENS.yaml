@@ -1,0 +1,10 @@
+citations: null
+description: Halt deforestation of primary and secondary forests
+identifiers:
+  transformation_code: TX:LNDU:DEC_DEFORESTATION_MIDINTENS
+  transformation_name: 'Default Value - LNDU: Stop deforestation at medium intensity
+    for jobs run'
+parameters:
+  magnitude: 0.499995
+  vec_implementation_ramp: null
+transformer: TFR:LNDU:DEC_DEFORESTATION

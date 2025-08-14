@@ -1,0 +1,10 @@
+citations: null
+description: None
+identifiers:
+  transformation_code: TX:TRWW:INC_CAPTURE_BIOGAS_MIDINTENS
+  transformation_name: 'Default Value - TRWW: Increase biogas capture at medium intensity
+    for jobs run'
+parameters:
+  magnitude: 0.425
+  vec_implementation_ramp: null
+transformer: TFR:TRWW:INC_CAPTURE_BIOGAS

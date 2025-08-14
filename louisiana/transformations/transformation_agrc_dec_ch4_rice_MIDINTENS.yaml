@@ -1,0 +1,11 @@
+citations: null
+description: Reduce :math:`\text{CH}_4` emissions from rice production by 45% due
+  to improved management and reduced flooding.
+identifiers:
+  transformation_code: TX:AGRC:DEC_CH4_RICE_MIDINTENS
+  transformation_name: 'Default Value - AGRC: Improve rice management at medium intensity
+    for jobs run'
+parameters:
+  magnitude: 0.225
+  vec_implementation_ramp: null
+transformer: TFR:AGRC:DEC_CH4_RICE

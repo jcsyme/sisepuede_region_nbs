@@ -1,0 +1,15 @@
+citations: null
+description: Affects both INEN and IPPU.
+identifiers:
+  transformation_code: TX:PFLO:INC_IND_CCS_MIDINTENS
+  transformation_name: 'Default Value - PFLO: Industrial carbon capture and sequestration
+    at medium intensity for jobs run'
+parameters:
+  dict_magnitude_eff: 0.9
+  dict_magnitude_prev:
+    cement: 0.4
+    chemicals: 0.4
+    metals: 0.4
+    plastic: 0.4
+  vec_implementation_ramp: null
+transformer: TFR:PFLO:INC_IND_CCS

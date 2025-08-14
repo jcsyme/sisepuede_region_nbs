@@ -1,0 +1,13 @@
+citations: null
+description: None
+identifiers:
+  transformation_code: TX:TRNS:SHIFT_MODE_PASSENGER_MIDINTENS
+  transformation_name: 'Default Value - TRNS: Mode shift passenger vehicles to others
+    at medium intensity for jobs run'
+parameters:
+  categories_out:
+  - road_light
+  dict_categories_target: null
+  magnitude: 0.15
+  vec_implementation_ramp: null
+transformer: TFR:TRNS:SHIFT_MODE_PASSENGER

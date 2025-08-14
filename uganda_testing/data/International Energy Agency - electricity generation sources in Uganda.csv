@@ -1,0 +1,93 @@
+"electricity generation sources in Uganda",Value,Year,Units
+"Oil",6,2000, GWh
+"Oil",6,2001, GWh
+"Oil",6,2002, GWh
+"Oil",6,2003, GWh
+"Oil",2,2004, GWh
+"Oil",68,2005, GWh
+"Oil",377,2006, GWh
+"Oil",541,2007, GWh
+"Oil",618,2008, GWh
+"Oil",899,2009, GWh
+"Oil",1131,2010, GWh
+"Oil",1056,2011, GWh
+"Oil",320,2012, GWh
+"Oil",37,2013, GWh
+"Oil",127,2014, GWh
+"Oil",117,2015, GWh
+"Oil",113,2016, GWh
+"Oil",109,2017, GWh
+"Oil",310,2018, GWh
+"Oil",139,2019, GWh
+"Oil",119,2020, GWh
+"Oil",127,2021, GWh
+"Oil",151,2022, GWh
+"Hydro",1551,2000, GWh
+"Hydro",1546,2001, GWh
+"Hydro",1668,2002, GWh
+"Hydro",1752,2003, GWh
+"Hydro",1888,2004, GWh
+"Hydro",1839,2005, GWh
+"Hydro",1161,2006, GWh
+"Hydro",1398,2007, GWh
+"Hydro",1631,2008, GWh
+"Hydro",1396,2009, GWh
+"Hydro",1485,2010, GWh
+"Hydro",1531,2011, GWh
+"Hydro",2453,2012, GWh
+"Hydro",2865,2013, GWh
+"Hydro",2874,2014, GWh
+"Hydro",3092,2015, GWh
+"Hydro",3303,2016, GWh
+"Hydro",3442,2017, GWh
+"Hydro",3640,2018, GWh
+"Hydro",4035,2019, GWh
+"Hydro",4080,2020, GWh
+"Hydro",4640,2021, GWh
+"Hydro",4977,2022, GWh
+"Biofuels",30,2000, GWh
+"Biofuels",31,2001, GWh
+"Biofuels",37,2002, GWh
+"Biofuels",43,2003, GWh
+"Biofuels",47,2004, GWh
+"Biofuels",47,2005, GWh
+"Biofuels",49,2006, GWh
+"Biofuels",47,2007, GWh
+"Biofuels",76,2008, GWh
+"Biofuels",124,2009, GWh
+"Biofuels",117,2010, GWh
+"Biofuels",83,2011, GWh
+"Biofuels",130,2012, GWh
+"Biofuels",173,2013, GWh
+"Biofuels",243,2014, GWh
+"Biofuels",353,2015, GWh
+"Biofuels",363,2016, GWh
+"Biofuels",206,2017, GWh
+"Biofuels",279,2018, GWh
+"Biofuels",271,2019, GWh
+"Biofuels",259,2020, GWh
+"Biofuels",367,2021, GWh
+"Biofuels",500,2022, GWh
+"Solar PV",,2000, GWh
+"Solar PV",1,2001, GWh
+"Solar PV",2,2002, GWh
+"Solar PV",2,2003, GWh
+"Solar PV",3,2004, GWh
+"Solar PV",4,2005, GWh
+"Solar PV",8,2006, GWh
+"Solar PV",11,2007, GWh
+"Solar PV",17,2008, GWh
+"Solar PV",21,2009, GWh
+"Solar PV",22,2010, GWh
+"Solar PV",24,2011, GWh
+"Solar PV",25,2012, GWh
+"Solar PV",27,2013, GWh
+"Solar PV",29,2014, GWh
+"Solar PV",32,2015, GWh
+"Solar PV",39,2016, GWh
+"Solar PV",61,2017, GWh
+"Solar PV",70,2018, GWh
+"Solar PV",119,2019, GWh
+"Solar PV",128,2020, GWh
+"Solar PV",140,2021, GWh
+"Solar PV",146,2022, GWh

@@ -1,0 +1,10 @@
+citations: null
+description: None
+identifiers:
+  transformation_code: TX:WASO:INC_RECYCLING_MIDINTENS
+  transformation_name: 'Default Value - WASO: Increase recycling at medium intensity
+    for jobs run'
+parameters:
+  magnitude: 0.475
+  vec_implementation_ramp: null
+transformer: TFR:WASO:INC_RECYCLING

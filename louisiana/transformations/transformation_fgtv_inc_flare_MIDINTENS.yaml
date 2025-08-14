@@ -1,0 +1,10 @@
+citations: null
+description: None
+identifiers:
+  transformation_code: TX:FGTV:INC_FLARE_MIDINTENS
+  transformation_name: 'Default Value - FGTV: Maximize flaring at medium intensity
+    for jobs run'
+parameters:
+  magnitude: 0.4
+  vec_implementation_ramp: null
+transformer: TFR:FGTV:INC_FLARE
