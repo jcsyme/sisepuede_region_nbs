@@ -14,7 +14,9 @@ baseline:
     - 8
 general:
   categories_entc_max_investment_ramp: null
+  # - pp_hydropower
   categories_entc_pps_to_cap: null
+  # - pp_hydropower
   categories_entc_renewable: null
   categories_inen_high_heat_to_frac:
     cement: 0.88
@@ -33,5 +35,5 @@ general:
     window_logistic:
     - -8
     - 8
-  vir_renewable_cap_delta_frac: 0.0075
-  vir_renewable_cap_max_frac: 0.125
+  vir_renewable_cap_delta_frac: 0.75
+  vir_renewable_cap_max_frac: 10

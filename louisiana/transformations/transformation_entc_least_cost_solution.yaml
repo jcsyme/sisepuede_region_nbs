@@ -4,5 +4,6 @@ identifiers:
   transformation_code: "TX:ENTC:LEAST_COST_SOLUTION"
   transformation_name: "Default Value - ENTC: Least cost solution"
 parameters:
+  # drop_frac_elec_increase_for_msp: False
   vec_implementation_ramp: null
 transformer: "TFR:ENTC:LEAST_COST_SOLUTION"
