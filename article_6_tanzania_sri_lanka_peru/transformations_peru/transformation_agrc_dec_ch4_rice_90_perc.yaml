@@ -1,0 +1,10 @@
+citations: null
+description: "Reduce :math:`\\text{CH}_4` emissions from rice production by 40.5% due\
+  \ to improved management and reduced flooding."
+identifiers:
+  transformation_code: "TX:AGRC:DEC_CH4_RICE_P90"
+  transformation_name: "Default Value - AGRC: Improve rice management at 90% of max"
+parameters:
+  magnitude: 0.405
+  vec_implementation_ramp: null
+transformer: "TFR:AGRC:DEC_CH4_RICE"

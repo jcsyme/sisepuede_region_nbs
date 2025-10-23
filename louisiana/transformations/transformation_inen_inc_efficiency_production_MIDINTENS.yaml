@@ -5,6 +5,26 @@ identifiers:
   transformation_name: 'Default Value - INEN: Maximize industrial production efficiency
     at medium intensity for jobs run'
 parameters:
-  magnitude: 0.2
+  categories:
+    - cement
+    - chemicals
+    - electronics
+    - glass
+    - lime_and_carbonite
+    - metals
+    - mining
+    - paper
+    - plastic
+    - recycled_glass
+    - recycled_metals
+    - recycled_paper
+    - recycled_plastic
+    - recycled_rubber_and_leather
+    - recycled_textiles
+    - recycled_wood
+    - rubber_and_leather
+    - textiles
+    - wood
+  magnitude: 0.15
   vec_implementation_ramp: null
 transformer: TFR:INEN:INC_EFFICIENCY_PRODUCTION
