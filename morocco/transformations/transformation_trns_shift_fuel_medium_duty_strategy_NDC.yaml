@@ -1,0 +1,21 @@
+citations: null
+description: 'ULTRA: DAG-based aggressive 2035 minimization with solver-safe pacing.'
+identifiers:
+  transformation_code: "TX:TRNS:SHIFT_FUEL_MEDIUM_DUTY_STRATEGY_NDC"
+  transformation_name: "Scaled Default Max Parameters by 0.25 - TRNS: Fuel switch\
+    \ medium duty road transport"
+parameters:
+  magnitude_type: final_value
+  categories:
+  - road_heavy_freight
+  - road_heavy_regional
+  - public
+  dict_allocation_fuels_target: null
+  fuels_source:
+  - fuel_diesel
+  - fuel_gasoline
+  magnitude: 0.65
+  vec_implementation_ramp:
+    n_tp_ramp: 16
+    tp_0_ramp: 12
+transformer: "TFR:TRNS:SHIFT_FUEL_MEDIUM_DUTY"

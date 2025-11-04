@@ -1,0 +1,10 @@
+citations: null
+description: "Increase OR Decrease exports of fuels"
+identifiers:
+  transformation_code: "TX:ENFU:ADJ_EXPORTS"
+  transformation_name: "Default Value - ENFU: Adjust Exports"
+parameters:
+  magnitude: 1.5
+  magnitude_type: baseline_scalar
+  vec_implementation_ramp: null
+transformer: "TFR:ENFU:ADJ_EXPORTS"

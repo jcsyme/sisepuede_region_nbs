@@ -1,0 +1,11 @@
+citations: null
+description: 'Missing'
+identifiers:
+  transformation_code: "TX:IPPU:DEC_N2O_STRATEGY_LEP"
+  transformation_name: "Scaled Default Max Parameters by 1.0 - IPPU: Reduce Nitrous\
+    \ Oxide emissions"
+parameters:
+  magnitude: 0.1
+  vec_implementation_ramp:
+    tp_0_ramp: 12
+transformer: "TFR:IPPU:DEC_N2O"

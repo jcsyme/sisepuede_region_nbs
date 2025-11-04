@@ -1,0 +1,16 @@
+citations: null
+description: 'ULTRA: DAG-based aggressive 2035 minimization with solver-safe pacing.'
+identifiers:
+  transformation_code: "TX:TRNS:SHIFT_MODE_FREIGHT_STRATEGY_NDC"
+  transformation_name: "Scaled Default Max Parameters by 0.2 - TRNS: Mode shift freight"
+parameters:
+  magnitude_type: final_value
+  categories_out:
+  - aviation
+  - road_heavy_freight
+  dict_categories_target: null
+  magnitude: 0.45
+  vec_implementation_ramp:
+    n_tp_ramp: 12
+    tp_0_ramp: 12
+transformer: "TFR:TRNS:SHIFT_MODE_FREIGHT"

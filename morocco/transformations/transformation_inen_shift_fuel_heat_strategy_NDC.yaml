@@ -1,0 +1,19 @@
+citations: null
+description: 'ULTRA: DAG-based aggressive 2035 minimization with solver-safe pacing.'
+identifiers:
+  transformation_code: "TX:INEN:SHIFT_FUEL_HEAT_STRATEGY_NDC"
+  transformation_name: "Scaled Default Max Parameters by 0.3 - INEN: Fuel switch high-\
+    \ and low-temp thermal processes. "
+parameters:
+  magnitude: 0.6
+  magnitude_type: final_value
+  frac_high_given_high: null
+  frac_switchable: 0.9
+  vec_implementation_ramp:
+    d: 2035
+    c: 2.71828
+    b: 0.5
+    a: 1
+    n_tp_ramp: 14
+    tp_0_ramp: 6
+transformer: "TFR:INEN:SHIFT_FUEL_HEAT"

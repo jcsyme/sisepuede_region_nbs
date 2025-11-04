@@ -1,0 +1,20 @@
+citations: null
+description: 'ULTRA: DAG-based aggressive 2035 minimization with solver-safe pacing.'
+identifiers:
+  transformation_code: "TX:TRNS:SHIFT_MODE_PASSENGER_STRATEGY_NDC"
+  transformation_name: "Scaled Default Max Parameters by 0.25 - TRNS: Mode shift passenger\
+    \ vehicles to others"
+parameters:
+  magnitude_type: final_value
+  categories_out:
+  - road_light
+  dict_categories_target: null
+  magnitude: 0.4
+  vec_implementation_ramp:
+    d: 2031
+    c: 2.71828
+    b: 0.5
+    a: 1
+    n_tp_ramp: 12
+    tp_0_ramp: 4
+transformer: "TFR:TRNS:SHIFT_MODE_PASSENGER"

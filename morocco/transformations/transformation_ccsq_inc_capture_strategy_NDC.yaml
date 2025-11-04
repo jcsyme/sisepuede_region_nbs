@@ -1,0 +1,9 @@
+citations: null
+description: 'Hotfix v4c \u2014 reduce CCS capture magnitude to 10 Mt by final period;\ \ later start.'
+identifiers:
+  transformation_code: TX:CCSQ:INC_CAPTURE_STRATEGY_NDC
+parameters:
+  magnitude: 10.0
+  vec_implementation_ramp:
+    tp_0_ramp: 13
+transformer: TFR:CCSQ:INC_CAPTURE

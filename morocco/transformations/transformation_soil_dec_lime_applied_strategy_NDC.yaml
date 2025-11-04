@@ -1,0 +1,13 @@
+citations: null
+description: 'ULTRA: DAG-based aggressive 2035 minimization with solver-safe pacing.'
+identifiers:
+  transformation_code: "TX:SOIL:DEC_LIME_APPLIED_STRATEGY_NDC"
+  transformation_name: "Scaled Default Max Parameters by 0.3 - SOIL: Improve lime\
+    \ application"
+parameters:
+  magnitude_type: baseline_scalar
+  magnitude: 0.6
+  vec_implementation_ramp:
+    n_tp_ramp: 10
+    tp_0_ramp: 4
+transformer: "TFR:SOIL:DEC_LIME_APPLIED"

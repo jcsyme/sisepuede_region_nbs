@@ -1,0 +1,12 @@
+citations: null
+description: 'ULTRA: DAG-based aggressive 2035 minimization with solver-safe pacing.'
+identifiers:
+  transformation_code: "TX:WASO:INC_RECYCLING_STRATEGY_NDC"
+  transformation_name: "Scaled Default Max Parameters by 0.5 - WASO: Increase recycling"
+parameters:
+  magnitude_type: final_value
+  magnitude: 0.8
+  vec_implementation_ramp:
+    n_tp_ramp: 16
+    tp_0_ramp: 5
+transformer: "TFR:WASO:INC_RECYCLING"

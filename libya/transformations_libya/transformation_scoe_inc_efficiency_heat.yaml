@@ -1,0 +1,10 @@
+citations: null
+description: "Missing"
+identifiers:
+  transformation_code: "TX:SCOE:INC_EFFICIENCY_HEAT"
+  transformation_name: "Default Value - SCOE: Increase heat efficiency"
+parameters:
+  dict_cats_to_magnitude: 0.2
+  return_dict_cats_to_magnitude: false
+  vec_implementation_ramp: null
+transformer: "TFR:SCOE:INC_EFFICIENCY_HEAT"

@@ -1,0 +1,11 @@
+citations: null
+description: 'Missing'
+identifiers:
+  transformation_code: "TX:TRWW:INC_COMPLIANCE_SEPTIC_STRATEGY_NDC"
+  transformation_name: "Scaled Default Max Parameters by 0.5 - TRWW: Increase septic\
+    \ compliance"
+parameters:
+  magnitude: 0.45
+  vec_implementation_ramp:
+    tp_0_ramp: 12
+transformer: "TFR:TRWW:INC_COMPLIANCE_SEPTIC"

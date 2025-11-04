@@ -1,0 +1,10 @@
+citations: null
+description: 'Increase the use of silvopasture by increaasing the average sequestration factor associated with pastures. This transformer models silvopasture as a fraction of pastures with planted forests. Since the magnitude is a fraction of area, the average sequestration factor is estimated as m*f, where m is the magnitude (prevalence) and f is the secondary forest sequestration factor.'
+identifiers:
+  transformation_code: "TX:LNDU:INC_SILVOPASTURE_STRATEGY_LEP"
+  transformation_name: "Scaled Default Max Parameters by 1.0 - LNDU: Expand silvopasture"
+parameters:
+  magnitude: 0.1
+  vec_implementation_ramp:
+    tp_0_ramp: 12
+transformer: "TFR:LNDU:INC_SILVOPASTURE"

@@ -1,0 +1,15 @@
+citations: null
+description: 'ULTRA: DAG-based aggressive 2035 minimization with solver-safe pacing.'
+identifiers:
+  transformation_code: "TX:WASO:INC_ANAEROBIC_AND_COMPOST_STRATEGY_NDC"
+  transformation_name: "Scaled Default Max Parameters by 0.6 - WASO: Increase composting\
+    \ and biogas"
+parameters:
+  magnitude: 0.8
+  magnitude_type: final_value
+  magnitude_biogas: 0.475
+  magnitude_compost: 0.475
+  vec_implementation_ramp:
+    n_tp_ramp: 16
+    tp_0_ramp: 6
+transformer: "TFR:WASO:INC_ANAEROBIC_AND_COMPOST"

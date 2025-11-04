@@ -1,0 +1,10 @@
+citations: null
+description: "Includes a reduction in the demand for red meat and allows for changes\
+  \ to different crop demands."
+identifiers:
+  transformation_code: "TX:PFLO:INC_HEALTHIER_DIETS"
+  transformation_name: "Default Value - PFLO: Change diets"
+parameters:
+  magnitude_red_meat: 0.5
+  vec_implementation_ramp: null
+transformer: "TFR:PFLO:INC_HEALTHIER_DIETS"

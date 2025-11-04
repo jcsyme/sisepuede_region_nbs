@@ -1,0 +1,15 @@
+citations: null
+description: 'ULTRA: DAG-based aggressive 2035 minimization with solver-safe pacing.'
+identifiers:
+  transformation_code: "TX:WALI:INC_TREATMENT_RURAL_STRATEGY_NDC"
+  transformation_name: "Scaled Default Max Parameters by 0.35 - WALI: Improved rural\
+    \ wastewater treatment"
+parameters:
+  magnitude: 0.92
+  magnitude_type: final_value
+  dict_magnitude: null
+  return_pathways: false
+  vec_implementation_ramp:
+    n_tp_ramp: 12
+    tp_0_ramp: 5
+transformer: "TFR:WALI:INC_TREATMENT_RURAL"

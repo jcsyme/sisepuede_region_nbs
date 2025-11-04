@@ -1,0 +1,11 @@
+citations: null
+description: 'ULTRA: DAG-based aggressive 2035 minimization with solver-safe pacing.'
+identifiers:
+  transformation_code: "TX:LVST:INC_PRODUCTIVITY_STRATEGY_NDC"
+  transformation_name: "Scaled Default Max Parameters by 0.2 - LVST: Increase livestock\
+    \ productivity"
+parameters:
+  magnitude: 0.0018
+  vec_implementation_ramp:
+    tp_0_ramp: 12
+transformer: "TFR:LVST:INC_PRODUCTIVITY"

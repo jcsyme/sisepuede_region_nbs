@@ -1,0 +1,13 @@
+citations: null
+description: 'ULTRA: DAG-based aggressive 2035 minimization with solver-safe pacing.'
+identifiers:
+  transformation_code: "TX:IPPU:DEC_N2O_STRATEGY_NDC"
+  transformation_name: "Scaled Default Max Parameters by 0.6 - IPPU: Reduce Nitrous\
+    \ Oxide emissions"
+parameters:
+  magnitude_type: final_value
+  magnitude: 0.7
+  vec_implementation_ramp:
+    n_tp_ramp: 10
+    tp_0_ramp: 4
+transformer: "TFR:IPPU:DEC_N2O"

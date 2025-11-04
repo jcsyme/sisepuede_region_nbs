@@ -1,0 +1,17 @@
+citations: null
+description: 'ULTRA: DAG-based aggressive 2035 minimization with solver-safe pacing.'
+identifiers:
+  transformation_code: "TX:WASO:INC_ENERGY_FROM_BIOGAS_STRATEGY_NDC"
+  transformation_name: "Scaled Default Max Parameters by 1.0 - WASO: Biogas for energy\
+    \ production"
+parameters:
+  magnitude_type: final_value
+  magnitude: 0.95
+  vec_implementation_ramp:
+    d: 2035
+    c: 2.71828
+    b: 0.6
+    a: 1
+    n_tp_ramp: 12
+    tp_0_ramp: 7
+transformer: "TFR:WASO:INC_ENERGY_FROM_BIOGAS"

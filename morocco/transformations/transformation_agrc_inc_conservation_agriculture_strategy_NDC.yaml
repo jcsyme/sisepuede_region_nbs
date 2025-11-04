@@ -1,0 +1,16 @@
+identifiers:
+  transformation_code: "TX:AGRC:INC_CONSERVATION_AGRICULTURE:STRAT:NDC"
+  transformation_name: "Increase conservation agriculture adoption (Strategy NDC)"
+parameters:
+  magnitude_type: final_value
+  magnitude: 0.80
+  vec_implementation_ramp:
+    n_tp_ramp: 15
+    tp_0_ramp: 2025
+    a: 1
+    b: 0
+    c: 2.71828
+    d: 2033
+transformer: "TFR:AGRC:INC_CONSERVATION_AGRICULTURE"
+notes: |
+  Adoption ramp for conservation practices to support soil C and N2O reductions.

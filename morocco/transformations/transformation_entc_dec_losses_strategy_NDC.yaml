@@ -1,0 +1,14 @@
+citations: null
+description: 'ULTRA: DAG-based aggressive 2035 minimization with solver-safe pacing.'
+identifiers:
+  transformation_code: "TX:ENTC:DEC_LOSSES_STRATEGY_NDC"
+  transformation_name: "Scaled Default Max Parameters by 0.8 - ENTC: Reduce transmission\
+    \ losses"
+parameters:
+  magnitude: 0.3
+  magnitude_type: final_value
+  min_loss: 0.02
+  vec_implementation_ramp:
+    n_tp_ramp: 10
+    tp_0_ramp: 3
+transformer: "TFR:ENTC:DEC_LOSSES"

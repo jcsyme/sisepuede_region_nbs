@@ -1,0 +1,11 @@
+citations: null
+description: 'VERY-AGGRESSIVE: Landfilling minimized to ~0.01.'
+identifiers:
+  transformation_code: TX:WASO:INC_LANDFILLING_STRATEGY_NDC
+parameters:
+  magnitude: 0.01
+  vec_implementation_ramp:
+    n_tp_ramp: 5
+    tp_0_ramp: 3
+  magnitude_type: final_value
+transformer: TFR:WASO:INC_LANDFILLING

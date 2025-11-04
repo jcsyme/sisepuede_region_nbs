@@ -1,0 +1,11 @@
+citations: null
+description: 'Land use classes are estimated using a transition matrix and ajdusted\ \ using a quadratic program. This transformation can be used to set upper and lower\ \ bounds on transitionable land use classes. This transformation can be used to\ \ represent the addition of protected areas through the use of a minimum bound OR\ \ the prevention of additional growth through the maxium bound.'
+identifiers:
+  transformation_code: "TX:LNDU:BOUND_CLASSES"
+  transformation_name: "Default Value - LNDU: Bound Classes"
+parameters:
+  delim_key: '|'
+  dict_directional_categories_to_magnitude: null
+  return_dict_dcm_only: false
+  vec_implementation_ramp: null
+transformer: "TFR:LNDU:BOUND_CLASSES"

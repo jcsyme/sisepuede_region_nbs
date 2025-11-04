@@ -1,0 +1,13 @@
+citations: null
+description: 'ULTRA: DAG-based aggressive 2035 minimization with solver-safe pacing.'
+identifiers:
+  transformation_code: "TX:INEN:INC_EFFICIENCY_ENERGY_STRATEGY_NDC"
+  transformation_name: "Scaled Default Max Parameters by 0.25 - INEN: Maximize industrial\
+    \ energy efficiency"
+parameters:
+  magnitude_type: baseline_scalar
+  magnitude: 0.75
+  vec_implementation_ramp:
+    n_tp_ramp: 10
+    tp_0_ramp: 4
+transformer: "TFR:INEN:INC_EFFICIENCY_ENERGY"

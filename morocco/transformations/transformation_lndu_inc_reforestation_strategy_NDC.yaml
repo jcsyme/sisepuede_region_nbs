@@ -1,0 +1,19 @@
+citations: null
+description: 'ULTRA: DAG-based aggressive 2035 minimization with solver-safe pacing.'
+identifiers:
+  transformation_code: "TX:LNDU:INC_REFORESTATION_STRATEGY_NDC"
+  transformation_name: "Scaled Default Max Parameters by 0.6 - LNDU: Increase Reforestation"
+parameters:
+  magnitude_type: final_value
+  cats_inflow_restriction:
+  - croplands
+  - other
+  magnitude: 0.85
+  vec_implementation_ramp:
+    d: 2036
+    c: 2.71828
+    b: 0.5
+    a: 1
+    n_tp_ramp: 16
+    tp_0_ramp: 5
+transformer: "TFR:LNDU:INC_REFORESTATION"

@@ -1,0 +1,10 @@
+citations: null
+description: 'Hotfix v4c \u2014 clean H2 availability share 0.10 with later ramp.'
+identifiers:
+  transformation_code: TX:ENTC:TARGET_CLEAN_HYDROGEN_STRATEGY_NDC
+parameters:
+  magnitude: 0.1
+  vec_implementation_ramp:
+    tp_0_ramp: 13
+  magnitude_type: final_value
+transformer: TFR:ENTC:TARGET_CLEAN_HYDROGEN

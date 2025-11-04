@@ -1,0 +1,17 @@
+citations: null
+description: 'ULTRA: DAG-based aggressive 2035 minimization with solver-safe pacing.'
+identifiers:
+  transformation_code: "TX:WASO:INC_CAPTURE_BIOGAS_STRATEGY_NDC"
+  transformation_name: "Scaled Default Max Parameters by 0.75 - WASO: Increase biogas\
+    \ capture"
+parameters:
+  magnitude_type: final_value
+  magnitude: 0.98
+  vec_implementation_ramp:
+    d: 2033
+    c: 2.71828
+    b: 0.5
+    a: 1
+    n_tp_ramp: 12
+    tp_0_ramp: 6
+transformer: "TFR:WASO:INC_CAPTURE_BIOGAS"

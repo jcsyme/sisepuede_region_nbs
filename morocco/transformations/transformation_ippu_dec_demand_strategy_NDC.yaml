@@ -1,0 +1,12 @@
+citations: null
+description: 'ULTRA: DAG-based aggressive 2035 minimization with solver-safe pacing.'
+identifiers:
+  transformation_code: "TX:IPPU:DEC_DEMAND_STRATEGY_NDC"
+  transformation_name: "Scaled Default Max Parameters by 0.1 - IPPU: Demand management"
+parameters:
+  magnitude_type: baseline_scalar
+  magnitude: 0.8
+  vec_implementation_ramp:
+    n_tp_ramp: 10
+    tp_0_ramp: 5
+transformer: "TFR:IPPU:DEC_DEMAND"
