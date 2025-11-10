@@ -1,0 +1,14 @@
+citations: null
+description: Missing
+identifiers:
+  transformation_code: "TX:TRNS:SHIFT_MODE_REGIONAL_STRATEGY_LEP"
+  transformation_name: "Scaled Default Max Parameters by 1.0 - TRNS: Mode shift regional\
+    \ passenger travel"
+parameters:
+  dict_categories_out:
+    aviation: 0.1
+    road_light: 0.2
+  dict_categories_target: null
+  vec_implementation_ramp:
+    tp_0_ramp: 12
+transformer: "TFR:TRNS:SHIFT_MODE_REGIONAL"

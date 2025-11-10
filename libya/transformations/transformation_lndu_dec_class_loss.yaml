@@ -1,0 +1,12 @@
+citations: null
+description: "Halt loss of a specified land use class; similarly to DEC_DEFORESTATION,\
+  \ it increases the probability of a class transitioning into itself. The DEC_DEFORESTATION\
+  \ transformer, however, prevents multiple classes from transitioning out. "
+identifiers:
+  transformation_code: "TX:LNDU:DEC_CLASS_LOSS"
+  transformation_name: "Default Value - LNDU: Decrease loss of land use classes"
+parameters:
+  cat_lndu: null
+  magnitude: 0.99999
+  vec_implementation_ramp: null
+transformer: "TFR:LNDU:DEC_CLASS_LOSS"

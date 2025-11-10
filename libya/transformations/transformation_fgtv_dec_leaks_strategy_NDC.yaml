@@ -1,0 +1,10 @@
+citations: null
+description: Missing
+identifiers:
+  transformation_code: "TX:FGTV:DEC_LEAKS_STRATEGY_NDC"
+  transformation_name: "Scaled Default Max Parameters by 0.5 - FGTV: Minimize leaks"
+parameters:
+  magnitude: 0.4
+  vec_implementation_ramp:
+    tp_0_ramp: 12
+transformer: "TFR:FGTV:DEC_LEAKS"

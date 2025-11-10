@@ -1,0 +1,10 @@
+citations: null
+description: "Decrease agricultural exports by 50% (relative to final time period)"
+identifiers:
+  transformation_code: "TX:AGRC:DEC_EXPORTS"
+  transformation_name: "Default Value - AGRC: Decrease Exports"
+parameters:
+  magnitude: 0.5
+  magnitude_type: baseline_scalar
+  vec_implementation_ramp: null
+transformer: "TFR:AGRC:DEC_EXPORTS"

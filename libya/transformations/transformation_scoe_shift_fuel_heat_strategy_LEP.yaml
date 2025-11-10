@@ -1,0 +1,14 @@
+citations: null
+description: Missing
+identifiers:
+  transformation_code: "TX:SCOE:SHIFT_FUEL_HEAT_STRATEGY_LEP"
+  transformation_name: "Scaled Default Max Parameters by 1.0 - SCOE: Switch to electricity\
+    \ for heat using heat pumps, electric stoves, etc."
+parameters:
+  cat_enfu_target: null
+  cats_enfu_source: null
+  cats_scoe_apply: null
+  magnitude: 0.95
+  vec_implementation_ramp:
+    tp_0_ramp: 12
+transformer: "TFR:SCOE:SHIFT_FUEL_HEAT"

@@ -1,0 +1,11 @@
+citations: null
+description: Includes SF6, NF3, HCFCs, and others
+identifiers:
+  transformation_code: "TX:IPPU:DEC_OTHER_FCS_STRATEGY_LEP"
+  transformation_name: "Scaled Default Max Parameters by 2.0 - IPPU: Reduce other\
+    \ fluorinated compounds"
+parameters:
+  magnitude: 0.2
+  vec_implementation_ramp:
+    tp_0_ramp: 12
+transformer: "TFR:IPPU:DEC_OTHER_FCS"
