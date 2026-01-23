@@ -1,0 +1,11 @@
+citations: null
+description: Missing
+identifiers:
+  transformation_code: "TX:SCOE:INC_EFFICIENCY_APPLIANCE_STRATEGY_4"
+  transformation_name: "Scaled Default Max Parameters by 1.0 - SCOE: Increase appliance\
+    \ efficiency"
+parameters:
+  magnitude: 0.5
+  vec_implementation_ramp:
+    tp_0_ramp: 12
+transformer: "TFR:SCOE:INC_EFFICIENCY_APPLIANCE"

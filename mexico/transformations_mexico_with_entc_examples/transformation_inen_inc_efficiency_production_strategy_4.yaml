@@ -1,0 +1,11 @@
+citations: null
+description: Missing
+identifiers:
+  transformation_code: "TX:INEN:INC_EFFICIENCY_PRODUCTION_STRATEGY_4"
+  transformation_name: "Scaled Default Max Parameters by 1.0 - INEN: Maximize industrial\
+    \ production efficiency"
+parameters:
+  magnitude: 0.4
+  vec_implementation_ramp:
+    tp_0_ramp: 12
+transformer: "TFR:INEN:INC_EFFICIENCY_PRODUCTION"

@@ -1,0 +1,10 @@
+citations: null
+description: Missing
+identifiers:
+  transformation_code: "TX:FGTV:INC_FLARE_STRATEGY_5"
+  transformation_name: "Scaled Default Max Parameters by 1.0 - FGTV: Maximize flaring"
+parameters:
+  magnitude: 0.8
+  vec_implementation_ramp:
+    tp_0_ramp: 12
+transformer: "TFR:FGTV:INC_FLARE"

@@ -1,0 +1,10 @@
+citations: null
+description: "Decrease total nitrogen applied  through more precise fertilizer use\
+  \ (default 5%)"
+identifiers:
+  transformation_code: "TX:SOIL:DEC_N_APPLIED"
+  transformation_name: "Default Value - SOIL: Improve fertilizer application"
+parameters:
+  magnitude: 0.2
+  vec_implementation_ramp: null
+transformer: "TFR:SOIL:DEC_N_APPLIED"

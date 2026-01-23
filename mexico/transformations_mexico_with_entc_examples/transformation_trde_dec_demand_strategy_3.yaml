@@ -1,0 +1,11 @@
+citations: null
+description: Missing
+identifiers:
+  transformation_code: "TX:TRDE:DEC_DEMAND_STRATEGY_3"
+  transformation_name: "Scaled Default Max Parameters by 2.0 - TRDE: Reduce demand\
+    \ for transport"
+parameters:
+  magnitude: 0.5
+  vec_implementation_ramp:
+    tp_0_ramp: 10
+transformer: "TFR:TRDE:DEC_DEMAND"

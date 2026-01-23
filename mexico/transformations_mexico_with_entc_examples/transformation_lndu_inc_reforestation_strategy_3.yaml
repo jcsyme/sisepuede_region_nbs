@@ -1,0 +1,15 @@
+citations: null
+description: 'Increases probability of input land use classes being converted to secondary
+  forests. This transformation can be defined for specific land use classes--e.g.,
+  converting only shrublands and croplands to '
+identifiers:
+  transformation_code: "TX:LNDU:INC_REFORESTATION_STRATEGY_3"
+  transformation_name: "Scaled Default Max Parameters by 1.0 - LNDU: Increase Reforestation"
+parameters:
+  cats_inflow_restriction:
+  - croplands
+  - other
+  magnitude: 0.2
+  vec_implementation_ramp:
+    tp_0_ramp: 12
+transformer: "TFR:LNDU:INC_REFORESTATION"

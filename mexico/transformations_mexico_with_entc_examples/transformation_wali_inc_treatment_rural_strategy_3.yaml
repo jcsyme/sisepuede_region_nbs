@@ -1,0 +1,12 @@
+citations: null
+description: Missing
+identifiers:
+  transformation_code: "TX:WALI:INC_TREATMENT_RURAL_STRATEGY_3"
+  transformation_name: "Scaled Default Max Parameters by 1.0 - WALI: Improved rural\
+    \ wastewater treatment"
+parameters:
+  dict_magnitude: null
+  return_pathways: false
+  vec_implementation_ramp:
+    tp_0_ramp: 10
+transformer: "TFR:WALI:INC_TREATMENT_RURAL"

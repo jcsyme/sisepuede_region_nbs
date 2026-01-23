@@ -1,0 +1,11 @@
+citations: null
+description: Increase Direct Air Capture deployment to 50 MT CO2e by final time period.
+identifiers:
+  transformation_code: "TX:CCSQ:INC_CAPTURE_STRATEGY_4"
+  transformation_name: "Scaled Default Max Parameters by 3.0 - CCSQ: Increase direct\
+    \ air capture"
+parameters:
+  magnitude: 150.0
+  vec_implementation_ramp:
+    tp_0_ramp: 10
+transformer: "TFR:CCSQ:INC_CAPTURE"
